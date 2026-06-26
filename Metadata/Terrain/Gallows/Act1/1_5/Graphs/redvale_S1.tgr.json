@@ -40,7 +40,6 @@
   },
   "edges": [
     {
-      "from_": 5,
       "to": 2,
       "path": [],
       "unknown": [
@@ -52,10 +51,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleRiver/redvaleriver.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 5
     },
     {
-      "from_": 10,
       "to": 4,
       "path": [],
       "unknown": [
@@ -67,10 +66,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 10
     },
     {
-      "from_": 5,
       "to": 3,
       "path": [],
       "unknown": [
@@ -82,10 +81,10 @@
         40
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleRiver/redvaleriver_facing_virtual.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 5
     },
     {
-      "from_": 4,
       "to": 5,
       "path": [],
       "unknown": [
@@ -97,10 +96,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleRiver/redvaleriver.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 4
     },
     {
-      "from_": 15,
       "to": 2,
       "path": [],
       "unknown": [
@@ -112,10 +111,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Rockpile/woodsrockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 15
     },
     {
-      "from_": 7,
       "to": 6,
       "path": [],
       "unknown": [
@@ -127,10 +126,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods_rockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 7
     },
     {
-      "from_": 11,
       "to": 9,
       "path": [],
       "unknown": [
@@ -142,10 +141,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Rockpile/woodsrockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 11
     },
     {
-      "from_": 9,
       "to": 8,
       "path": [],
       "unknown": [
@@ -157,10 +156,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods_rockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 9
     },
     {
-      "from_": 7,
       "to": 9,
       "path": [],
       "unknown": [
@@ -172,10 +171,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 7
     },
     {
-      "from_": 16,
       "to": 10,
       "path": [],
       "unknown": [
@@ -187,10 +186,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Rockpile/woodsrockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 16
     },
     {
-      "from_": 12,
       "to": 11,
       "path": [],
       "unknown": [
@@ -202,10 +201,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods_rockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 12
     },
     {
-      "from_": 17,
       "to": 11,
       "path": [],
       "unknown": [
@@ -217,10 +216,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 17
     },
     {
-      "from_": 14,
       "to": 4,
       "path": [],
       "unknown": [
@@ -232,10 +231,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods_rockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 14
     },
     {
-      "from_": 4,
       "to": 2,
       "path": [],
       "unknown": [
@@ -247,10 +246,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RockpileRiver/rockpileriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 4
     },
     {
-      "from_": 22,
       "to": 10,
       "path": [],
       "unknown": [
@@ -262,10 +261,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods_rockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 22
     },
     {
-      "from_": 7,
       "to": 15,
       "path": [],
       "unknown": [
@@ -277,10 +276,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Rockpile/woodsrockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 7
     },
     {
-      "from_": 13,
       "to": 16,
       "path": [],
       "unknown": [
@@ -292,10 +291,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Rockpile/woodsrockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 13
     },
     {
-      "from_": 16,
       "to": 3,
       "path": [
         [
@@ -312,10 +311,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/ShallowRiver/shallowriver.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 16
     },
     {
-      "from_": 18,
       "to": 16,
       "path": [
         [
@@ -332,10 +331,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/ShallowRiver/shallowriver.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 18
     },
     {
-      "from_": 13,
       "to": 17,
       "path": [],
       "unknown": [
@@ -347,10 +346,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 13
     },
     {
-      "from_": 18,
       "to": 17,
       "path": [],
       "unknown": [
@@ -362,10 +361,10 @@
         70
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleStreambank/redvalestream_virtual.et",
-      "color": null
+      "color": null,
+      "from": 18
     },
     {
-      "from_": 3,
       "to": 18,
       "path": [],
       "unknown": [
@@ -377,10 +376,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/ShallowRiver/shallowriver.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 3
     },
     {
-      "from_": 13,
       "to": 21,
       "path": [],
       "unknown": [
@@ -392,10 +391,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods_rockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 13
     },
     {
-      "from_": 21,
       "to": 22,
       "path": [],
       "unknown": [
@@ -407,7 +406,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods_rockpile.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 21
     }
   ],
   "fill_tiles": [

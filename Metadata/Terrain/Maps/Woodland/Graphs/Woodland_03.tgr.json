@@ -24,7 +24,6 @@
   },
   "edges": [
     {
-      "from_": 7,
       "to": 0,
       "path": [],
       "unknown": [
@@ -36,10 +35,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 7
     },
     {
-      "from_": 2,
       "to": 3,
       "path": [],
       "unknown": [
@@ -51,10 +50,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/WideRiver/wideriver_facing_virtual.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 2
     },
     {
-      "from_": 1,
       "to": 4,
       "path": [],
       "unknown": [
@@ -66,10 +65,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 1
     },
     {
-      "from_": 4,
       "to": 3,
       "path": [],
       "unknown": [
@@ -81,10 +80,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/WideRiver/wideriver_facing_virtual.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 4
     },
     {
-      "from_": 13,
       "to": 7,
       "path": [],
       "unknown": [
@@ -96,10 +95,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 13
     },
     {
-      "from_": 14,
       "to": 5,
       "path": [],
       "unknown": [
@@ -111,10 +110,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 14
     },
     {
-      "from_": 0,
       "to": 8,
       "path": [],
       "unknown": [
@@ -126,10 +125,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/wideriver_woodsriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 0
     },
     {
-      "from_": 8,
       "to": 2,
       "path": [],
       "unknown": [
@@ -141,10 +140,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/wideriver_woodsriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 8
     },
     {
-      "from_": 12,
       "to": 5,
       "path": [],
       "unknown": [
@@ -156,10 +155,10 @@
         40
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/wideriver_woodsriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 12
     },
     {
-      "from_": 11,
       "to": 0,
       "path": [],
       "unknown": [
@@ -171,10 +170,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/woods_wideriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 11
     },
     {
-      "from_": 0,
       "to": 10,
       "path": [],
       "unknown": [
@@ -186,10 +185,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/woods_wideriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 0
     },
     {
-      "from_": 9,
       "to": 11,
       "path": [],
       "unknown": [
@@ -201,10 +200,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/woods_wideriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 9
     },
     {
-      "from_": 2,
       "to": 12,
       "path": [],
       "unknown": [
@@ -216,10 +215,10 @@
         40
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/wideriver_woodsriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 2
     },
     {
-      "from_": 4,
       "to": 13,
       "path": [],
       "unknown": [
@@ -231,10 +230,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 4
     },
     {
-      "from_": 1,
       "to": 14,
       "path": [],
       "unknown": [
@@ -246,7 +245,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 1
     }
   ],
   "fill_tiles": [

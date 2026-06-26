@@ -24,7 +24,6 @@
   },
   "edges": [
     {
-      "from_": 1,
       "to": 0,
       "path": [],
       "unknown": [
@@ -36,10 +35,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
-      "color": "#FF00FF00"
+      "color": "#FF00FF00",
+      "from": 1
     },
     {
-      "from_": 0,
       "to": 2,
       "path": [],
       "unknown": [
@@ -51,10 +50,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
-      "color": "#FF00FF00"
+      "color": "#FF00FF00",
+      "from": 0
     },
     {
-      "from_": 3,
       "to": 0,
       "path": [],
       "unknown": [
@@ -66,10 +65,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Abyss/jungle_to_abyss_edge.et",
-      "color": "#ff2d7b18"
+      "color": "#ff2d7b18",
+      "from": 3
     },
     {
-      "from_": 0,
       "to": 4,
       "path": [],
       "unknown": [
@@ -81,10 +80,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Abyss/jungle_to_abyss_edge.et",
-      "color": "#ff2d7b18"
+      "color": "#ff2d7b18",
+      "from": 0
     },
     {
-      "from_": 3,
       "to": 4,
       "path": [],
       "unknown": [
@@ -96,10 +95,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Abyss/jungle_to_abyss_edge.et",
-      "color": "#ff2d7b18"
+      "color": "#ff2d7b18",
+      "from": 3
     },
     {
-      "from_": 5,
       "to": 6,
       "path": [],
       "unknown": [
@@ -111,10 +110,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
-      "color": "#FF00FF00"
+      "color": "#FF00FF00",
+      "from": 5
     },
     {
-      "from_": 5,
       "to": 7,
       "path": [],
       "unknown": [
@@ -126,10 +125,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
-      "color": "#FF00FF00"
+      "color": "#FF00FF00",
+      "from": 5
     },
     {
-      "from_": 7,
       "to": 2,
       "path": [],
       "unknown": [
@@ -141,10 +140,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
-      "color": "#FF00FF00"
+      "color": "#FF00FF00",
+      "from": 7
     },
     {
-      "from_": 1,
       "to": 6,
       "path": [],
       "unknown": [
@@ -156,10 +155,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Water/water.et",
-      "color": "#FF0000FF"
+      "color": "#FF0000FF",
+      "from": 1
     },
     {
-      "from_": 1,
       "to": 8,
       "path": [],
       "unknown": [
@@ -171,10 +170,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleToWater/jungle_to_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 1
     },
     {
-      "from_": 6,
       "to": 9,
       "path": [],
       "unknown": [
@@ -186,7 +185,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleToWater/jungle_to_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 6
     }
   ],
   "fill_tiles": [

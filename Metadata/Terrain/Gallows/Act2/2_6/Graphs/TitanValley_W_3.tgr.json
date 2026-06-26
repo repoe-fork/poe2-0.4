@@ -36,7 +36,6 @@
   },
   "edges": [
     {
-      "from_": 5,
       "to": 0,
       "path": [],
       "unknown": [
@@ -48,10 +47,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_unwalkable.et",
-      "color": "#FF251c18"
+      "color": "#FF251c18",
+      "from": 5
     },
     {
-      "from_": 26,
       "to": 1,
       "path": [],
       "unknown": [
@@ -63,10 +62,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_valley_virtual.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 26
     },
     {
-      "from_": 10,
       "to": 13,
       "path": [],
       "unknown": [
@@ -78,10 +77,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 10
     },
     {
-      "from_": 12,
       "to": 13,
       "path": [],
       "unknown": [
@@ -93,10 +92,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 12
     },
     {
-      "from_": 11,
       "to": 9,
       "path": [
         [
@@ -113,10 +112,10 @@
         120
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_virtual.et",
-      "color": "#ffffb000"
+      "color": "#ffffb000",
+      "from": 11
     },
     {
-      "from_": 8,
       "to": 17,
       "path": [],
       "unknown": [
@@ -128,10 +127,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_valley_virtual.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 8
     },
     {
-      "from_": 3,
       "to": 2,
       "path": [],
       "unknown": [
@@ -143,10 +142,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_ledge_unwalkable.et",
-      "color": "#FF805800"
+      "color": "#FF805800",
+      "from": 3
     },
     {
-      "from_": 18,
       "to": 3,
       "path": [],
       "unknown": [
@@ -158,10 +157,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_ledge_unwalkable.et",
-      "color": "#FF805800"
+      "color": "#FF805800",
+      "from": 18
     },
     {
-      "from_": 14,
       "to": 27,
       "path": [],
       "unknown": [
@@ -173,10 +172,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_ledge_unwalkable.et",
-      "color": "#FF805800"
+      "color": "#FF805800",
+      "from": 14
     },
     {
-      "from_": 12,
       "to": 14,
       "path": [],
       "unknown": [
@@ -188,10 +187,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 12
     },
     {
-      "from_": 14,
       "to": 15,
       "path": [],
       "unknown": [
@@ -203,10 +202,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 14
     },
     {
-      "from_": 0,
       "to": 16,
       "path": [],
       "unknown": [
@@ -218,10 +217,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_unwalkable.et",
-      "color": "#FF251c18"
+      "color": "#FF251c18",
+      "from": 0
     },
     {
-      "from_": 20,
       "to": 5,
       "path": [],
       "unknown": [
@@ -233,10 +232,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_unwalkable.et",
-      "color": "#FF251c18"
+      "color": "#FF251c18",
+      "from": 20
     },
     {
-      "from_": 15,
       "to": 20,
       "path": [],
       "unknown": [
@@ -248,10 +247,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_unwalkable.et",
-      "color": "#FF251c18"
+      "color": "#FF251c18",
+      "from": 15
     },
     {
-      "from_": 23,
       "to": 25,
       "path": [],
       "unknown": [
@@ -263,10 +262,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_edge.et",
-      "color": "#FFa88961"
+      "color": "#FFa88961",
+      "from": 23
     },
     {
-      "from_": 25,
       "to": 2,
       "path": [],
       "unknown": [
@@ -278,10 +277,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 25
     },
     {
-      "from_": 35,
       "to": 7,
       "path": [],
       "unknown": [
@@ -293,10 +292,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_ledge_unwalkable.et",
-      "color": "#FF805800"
+      "color": "#FF805800",
+      "from": 35
     },
     {
-      "from_": 27,
       "to": 7,
       "path": [],
       "unknown": [
@@ -308,10 +307,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_ledge_unwalkable.et",
-      "color": "#FF805800"
+      "color": "#FF805800",
+      "from": 27
     },
     {
-      "from_": 31,
       "to": 28,
       "path": [],
       "unknown": [
@@ -323,10 +322,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_edge.et",
-      "color": "#FFa88961"
+      "color": "#FFa88961",
+      "from": 31
     },
     {
-      "from_": 29,
       "to": 26,
       "path": [],
       "unknown": [
@@ -338,10 +337,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 29
     },
     {
-      "from_": 26,
       "to": 30,
       "path": [],
       "unknown": [
@@ -353,10 +352,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 26
     },
     {
-      "from_": 30,
       "to": 10,
       "path": [],
       "unknown": [
@@ -368,10 +367,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 30
     },
     {
-      "from_": 11,
       "to": 26,
       "path": [],
       "unknown": [
@@ -383,10 +382,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_ledge_unwalkable.et",
-      "color": "#FF805800"
+      "color": "#FF805800",
+      "from": 11
     },
     {
-      "from_": 11,
       "to": 29,
       "path": [],
       "unknown": [
@@ -398,10 +397,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 11
     },
     {
-      "from_": 39,
       "to": 9,
       "path": [],
       "unknown": [
@@ -413,10 +412,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 39
     },
     {
-      "from_": 16,
       "to": 31,
       "path": [],
       "unknown": [
@@ -428,10 +427,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_edge.et",
-      "color": "#FFa88961"
+      "color": "#FFa88961",
+      "from": 16
     },
     {
-      "from_": 16,
       "to": 32,
       "path": [],
       "unknown": [
@@ -443,10 +442,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 16
     },
     {
-      "from_": 25,
       "to": 32,
       "path": [],
       "unknown": [
@@ -458,10 +457,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_unwalkable.et",
-      "color": "#FF251c18"
+      "color": "#FF251c18",
+      "from": 25
     },
     {
-      "from_": 28,
       "to": 4,
       "path": [],
       "unknown": [
@@ -473,10 +472,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_edge.et",
-      "color": "#FFa88961"
+      "color": "#FFa88961",
+      "from": 28
     },
     {
-      "from_": 4,
       "to": 15,
       "path": [],
       "unknown": [
@@ -488,10 +487,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_edge.et",
-      "color": "#FFa88961"
+      "color": "#FFa88961",
+      "from": 4
     },
     {
-      "from_": 23,
       "to": 32,
       "path": [],
       "unknown": [
@@ -503,10 +502,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_edge.et",
-      "color": "#FFa88961"
+      "color": "#FFa88961",
+      "from": 23
     },
     {
-      "from_": 9,
       "to": 36,
       "path": [],
       "unknown": [
@@ -518,10 +517,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_ledge_unwalkable.et",
-      "color": "#FF805800"
+      "color": "#FF805800",
+      "from": 9
     },
     {
-      "from_": 35,
       "to": 36,
       "path": [],
       "unknown": [
@@ -533,10 +532,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 35
     },
     {
-      "from_": 37,
       "to": 36,
       "path": [],
       "unknown": [
@@ -548,10 +547,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 37
     },
     {
-      "from_": 35,
       "to": 37,
       "path": [],
       "unknown": [
@@ -563,10 +562,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 35
     },
     {
-      "from_": 32,
       "to": 34,
       "path": [],
       "unknown": [
@@ -578,10 +577,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_valley_virtual.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 32
     },
     {
-      "from_": 38,
       "to": 34,
       "path": [],
       "unknown": [
@@ -593,10 +592,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 38
     },
     {
-      "from_": 18,
       "to": 22,
       "path": [],
       "unknown": [
@@ -608,10 +607,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/titan_ledge_unwalkable.et",
-      "color": "#FF805800"
+      "color": "#FF805800",
+      "from": 18
     },
     {
-      "from_": 38,
       "to": 2,
       "path": [],
       "unknown": [
@@ -623,10 +622,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 38
     },
     {
-      "from_": 34,
       "to": 40,
       "path": [],
       "unknown": [
@@ -638,10 +637,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 34
     },
     {
-      "from_": 40,
       "to": 22,
       "path": [],
       "unknown": [
@@ -653,10 +652,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/Titans/desert_dune_titan_low_unwalkable.et",
-      "color": "#FFFF5050"
+      "color": "#FFFF5050",
+      "from": 40
     },
     {
-      "from_": 39,
       "to": 22,
       "path": [],
       "unknown": [
@@ -668,10 +667,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 39
     },
     {
-      "from_": 16,
       "to": 17,
       "path": [],
       "unknown": [
@@ -683,10 +682,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_valley_virtual.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 16
     },
     {
-      "from_": 17,
       "to": 39,
       "path": [],
       "unknown": [
@@ -698,7 +697,8 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_valley_virtual.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 17
     }
   ],
   "fill_tiles": [

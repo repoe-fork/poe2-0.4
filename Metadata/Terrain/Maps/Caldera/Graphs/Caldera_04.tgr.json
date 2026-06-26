@@ -36,7 +36,6 @@
   },
   "edges": [
     {
-      "from_": 0,
       "to": 2,
       "path": [],
       "unknown": [
@@ -48,10 +47,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/Volcano/Goblins/unwalkable_cliff_goblins.et",
-      "color": "#ffff5c5c"
+      "color": "#ffff5c5c",
+      "from": 0
     },
     {
-      "from_": 3,
       "to": 0,
       "path": [],
       "unknown": [
@@ -63,10 +62,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/Volcano/Goblins/unwalkable_cliff_goblins.et",
-      "color": "#ffff5c5c"
+      "color": "#ffff5c5c",
+      "from": 3
     },
     {
-      "from_": 12,
       "to": 4,
       "path": [],
       "unknown": [
@@ -78,10 +77,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/IslandShorelineOnePoint.et",
-      "color": "#1a4bc9ff"
+      "color": "#1a4bc9ff",
+      "from": 12
     },
     {
-      "from_": 5,
       "to": 1,
       "path": [],
       "unknown": [
@@ -93,10 +92,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/IslandShorelineOnePoint.et",
-      "color": "#1a4bc9ff"
+      "color": "#1a4bc9ff",
+      "from": 5
     },
     {
-      "from_": 5,
       "to": 6,
       "path": [],
       "unknown": [
@@ -108,10 +107,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
-      "color": "#ff666596"
+      "color": "#ff666596",
+      "from": 5
     },
     {
-      "from_": 7,
       "to": 4,
       "path": [],
       "unknown": [
@@ -123,10 +122,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
-      "color": "#ff666596"
+      "color": "#ff666596",
+      "from": 7
     },
     {
-      "from_": 8,
       "to": 9,
       "path": [],
       "unknown": [
@@ -138,10 +137,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/DeepwaterEdge/island_deepwater.et",
-      "color": "#ff457aff"
+      "color": "#ff457aff",
+      "from": 8
     },
     {
-      "from_": 13,
       "to": 11,
       "path": [],
       "unknown": [
@@ -153,10 +152,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/Volcano/crater_lake.et",
-      "color": "#ff66b5f6"
+      "color": "#ff66b5f6",
+      "from": 13
     },
     {
-      "from_": 11,
       "to": 10,
       "path": [],
       "unknown": [
@@ -168,10 +167,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/Volcano/crater_lake.et",
-      "color": "#ff66b5f6"
+      "color": "#ff66b5f6",
+      "from": 11
     },
     {
-      "from_": 16,
       "to": 5,
       "path": [],
       "unknown": [
@@ -183,10 +182,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/island_unwalkable_cliff.et",
-      "color": "#ff2d8130"
+      "color": "#ff2d8130",
+      "from": 16
     },
     {
-      "from_": 14,
       "to": 3,
       "path": [],
       "unknown": [
@@ -198,10 +197,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/island_unwalkable_cliff.et",
-      "color": "#ff2d8130"
+      "color": "#ff2d8130",
+      "from": 14
     },
     {
-      "from_": 2,
       "to": 3,
       "path": [],
       "unknown": [
@@ -213,10 +212,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/Volcano/Goblins/goblin_town_edge.et",
-      "color": "#ffffff00"
+      "color": "#ffffff00",
+      "from": 2
     },
     {
-      "from_": 1,
       "to": 12,
       "path": [],
       "unknown": [
@@ -228,10 +227,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/IslandShorelineOnePoint.et",
-      "color": "#1a4bc9ff"
+      "color": "#1a4bc9ff",
+      "from": 1
     },
     {
-      "from_": 10,
       "to": 13,
       "path": [],
       "unknown": [
@@ -243,10 +242,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/Volcano/crater_lake.et",
-      "color": "#ff66b5f6"
+      "color": "#ff66b5f6",
+      "from": 10
     },
     {
-      "from_": 4,
       "to": 14,
       "path": [],
       "unknown": [
@@ -258,10 +257,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/island_unwalkable_cliff.et",
-      "color": "#ff2d8130"
+      "color": "#ff2d8130",
+      "from": 4
     },
     {
-      "from_": 2,
       "to": 15,
       "path": [],
       "unknown": [
@@ -273,10 +272,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/island_unwalkable_cliff.et",
-      "color": "#ff2d8130"
+      "color": "#ff2d8130",
+      "from": 2
     },
     {
-      "from_": 15,
       "to": 16,
       "path": [],
       "unknown": [
@@ -288,7 +287,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/island_unwalkable_cliff.et",
-      "color": "#ff2d8130"
+      "color": "#ff2d8130",
+      "from": 15
     }
   ],
   "fill_tiles": [

@@ -28,7 +28,6 @@
   },
   "edges": [
     {
-      "from_": 6,
       "to": 1,
       "path": [],
       "unknown": [
@@ -40,10 +39,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 6
     },
     {
-      "from_": 2,
       "to": 0,
       "path": [],
       "unknown": [
@@ -55,10 +54,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash/slash.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 2
     },
     {
-      "from_": 1,
       "to": 2,
       "path": [],
       "unknown": [
@@ -70,10 +69,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 1
     },
     {
-      "from_": 3,
       "to": 0,
       "path": [
         [
@@ -90,10 +89,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash/slash.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 3
     },
     {
-      "from_": 5,
       "to": 3,
       "path": [],
       "unknown": [
@@ -105,10 +104,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash_Woods/slash_woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 5
     },
     {
-      "from_": 3,
       "to": 4,
       "path": [],
       "unknown": [
@@ -120,10 +119,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 3
     },
     {
-      "from_": 14,
       "to": 6,
       "path": [],
       "unknown": [
@@ -135,10 +134,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash/slash.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 14
     },
     {
-      "from_": 8,
       "to": 6,
       "path": [],
       "unknown": [
@@ -150,10 +149,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash_Woods/slash_woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 8
     },
     {
-      "from_": 9,
       "to": 7,
       "path": [],
       "unknown": [
@@ -165,10 +164,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash_Woods/slash_woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 9
     },
     {
-      "from_": 10,
       "to": 2,
       "path": [],
       "unknown": [
@@ -180,10 +179,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash_Woods/slash_woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 10
     },
     {
-      "from_": 13,
       "to": 4,
       "path": [],
       "unknown": [
@@ -195,10 +194,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 13
     },
     {
-      "from_": 7,
       "to": 13,
       "path": [],
       "unknown": [
@@ -210,10 +209,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/Trailside/woods_trailside.et",
-      "color": "#ff8d6c23"
+      "color": "#ff8d6c23",
+      "from": 7
     },
     {
-      "from_": 11,
       "to": 13,
       "path": [
         [
@@ -230,10 +229,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Mudburrow/burrower_trail.et",
-      "color": "#4D1900"
+      "color": "#4D1900",
+      "from": 11
     },
     {
-      "from_": 7,
       "to": 14,
       "path": [],
       "unknown": [
@@ -245,7 +244,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash/slash.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 7
     }
   ],
   "fill_tiles": [

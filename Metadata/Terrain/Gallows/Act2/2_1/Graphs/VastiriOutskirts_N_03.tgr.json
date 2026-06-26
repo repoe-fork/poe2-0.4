@@ -28,7 +28,6 @@
   },
   "edges": [
     {
-      "from_": 0,
       "to": 1,
       "path": [],
       "unknown": [
@@ -40,10 +39,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_stromatolite.et",
-      "color": "#ff8f1008"
+      "color": "#ff8f1008",
+      "from": 0
     },
     {
-      "from_": 3,
       "to": 4,
       "path": [],
       "unknown": [
@@ -55,10 +54,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_stromatolite.et",
-      "color": "#ff8f1008"
+      "color": "#ff8f1008",
+      "from": 3
     },
     {
-      "from_": 3,
       "to": 2,
       "path": [],
       "unknown": [
@@ -70,10 +69,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 3
     },
     {
-      "from_": 0,
       "to": 2,
       "path": [],
       "unknown": [
@@ -85,10 +84,10 @@
         45
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_to_stromatolite_virtual.et",
-      "color": null
+      "color": null,
+      "from": 0
     },
     {
-      "from_": 11,
       "to": 8,
       "path": [],
       "unknown": [
@@ -100,10 +99,10 @@
         40
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 11
     },
     {
-      "from_": 10,
       "to": 5,
       "path": [],
       "unknown": [
@@ -115,10 +114,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Stromatolite/stromatolite.et",
-      "color": "#ffd44ec5"
+      "color": "#ffd44ec5",
+      "from": 10
     },
     {
-      "from_": 17,
       "to": 8,
       "path": [],
       "unknown": [
@@ -130,10 +129,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_stromatolite.et",
-      "color": "#ff8f1008"
+      "color": "#ff8f1008",
+      "from": 17
     },
     {
-      "from_": 5,
       "to": 7,
       "path": [],
       "unknown": [
@@ -145,10 +144,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/HyenaDunes/hyena_canyon_virtual.et",
-      "color": null
+      "color": null,
+      "from": 5
     },
     {
-      "from_": 2,
       "to": 8,
       "path": [],
       "unknown": [
@@ -160,10 +159,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Stromatolite/stromatolite.et",
-      "color": "#ffd44ec5"
+      "color": "#ffd44ec5",
+      "from": 2
     },
     {
-      "from_": 11,
       "to": 13,
       "path": [],
       "unknown": [
@@ -175,10 +174,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Stromatolite/stromatolite.et",
-      "color": "#ffd44ec5"
+      "color": "#ffd44ec5",
+      "from": 11
     },
     {
-      "from_": 13,
       "to": 12,
       "path": [],
       "unknown": [
@@ -190,10 +189,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Stromatolite/stromatolite.et",
-      "color": "#ffd44ec5"
+      "color": "#ffd44ec5",
+      "from": 13
     },
     {
-      "from_": 5,
       "to": 12,
       "path": [],
       "unknown": [
@@ -205,10 +204,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 5
     },
     {
-      "from_": 6,
       "to": 5,
       "path": [],
       "unknown": [
@@ -220,10 +219,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_stromatolite.et",
-      "color": "#ff8f1008"
+      "color": "#ff8f1008",
+      "from": 6
     },
     {
-      "from_": 19,
       "to": 16,
       "path": [],
       "unknown": [
@@ -235,10 +234,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Stromatolite/stromatolite.et",
-      "color": "#ffd44ec5"
+      "color": "#ffd44ec5",
+      "from": 19
     },
     {
-      "from_": 16,
       "to": 3,
       "path": [],
       "unknown": [
@@ -250,10 +249,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Stromatolite/stromatolite.et",
-      "color": "#ffd44ec5"
+      "color": "#ffd44ec5",
+      "from": 16
     },
     {
-      "from_": 9,
       "to": 17,
       "path": [],
       "unknown": [
@@ -265,10 +264,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_stromatolite.et",
-      "color": "#ff8f1008"
+      "color": "#ff8f1008",
+      "from": 9
     },
     {
-      "from_": 11,
       "to": 12,
       "path": [],
       "unknown": [
@@ -280,10 +279,10 @@
         70
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune_to_stromatolite_virtual.et",
-      "color": null
+      "color": null,
+      "from": 11
     },
     {
-      "from_": 10,
       "to": 19,
       "path": [],
       "unknown": [
@@ -295,7 +294,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Stromatolite/stromatolite.et",
-      "color": "#ffd44ec5"
+      "color": "#ffd44ec5",
+      "from": 10
     }
   ],
   "fill_tiles": [

@@ -20,7 +20,6 @@
   },
   "edges": [
     {
-      "from_": 3,
       "to": 2,
       "path": [],
       "unknown": [
@@ -32,10 +31,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 3
     },
     {
-      "from_": 7,
       "to": 1,
       "path": [],
       "unknown": [
@@ -47,10 +46,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 7
     },
     {
-      "from_": 9,
       "to": 4,
       "path": [],
       "unknown": [
@@ -62,10 +61,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 9
     },
     {
-      "from_": 2,
       "to": 7,
       "path": [],
       "unknown": [
@@ -77,10 +76,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 2
     },
     {
-      "from_": 1,
       "to": 8,
       "path": [],
       "unknown": [
@@ -92,10 +91,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 1
     },
     {
-      "from_": 0,
       "to": 9,
       "path": [],
       "unknown": [
@@ -107,10 +106,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 0
     },
     {
-      "from_": 0,
       "to": 4,
       "path": [],
       "unknown": [
@@ -122,10 +121,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods_facing_virtual.et",
-      "color": "#8abd84"
+      "color": "#8abd84",
+      "from": 0
     },
     {
-      "from_": 8,
       "to": 7,
       "path": [],
       "unknown": [
@@ -137,10 +136,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods_facing_virtual.et",
-      "color": "#8abd84"
+      "color": "#8abd84",
+      "from": 8
     },
     {
-      "from_": 10,
       "to": 5,
       "path": [],
       "unknown": [
@@ -152,10 +151,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 10
     },
     {
-      "from_": 5,
       "to": 3,
       "path": [],
       "unknown": [
@@ -167,10 +166,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 5
     },
     {
-      "from_": 15,
       "to": 10,
       "path": [],
       "unknown": [
@@ -182,10 +181,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 15
     },
     {
-      "from_": 4,
       "to": 13,
       "path": [],
       "unknown": [
@@ -197,10 +196,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 4
     },
     {
-      "from_": 13,
       "to": 15,
       "path": [],
       "unknown": [
@@ -212,10 +211,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 13
     },
     {
-      "from_": 8,
       "to": 16,
       "path": [],
       "unknown": [
@@ -227,10 +226,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 8
     },
     {
-      "from_": 21,
       "to": 17,
       "path": [],
       "unknown": [
@@ -242,10 +241,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part1/P1_3/forest_to_building_edge.et",
-      "color": null
+      "color": null,
+      "from": 21
     },
     {
-      "from_": 23,
       "to": 18,
       "path": [],
       "unknown": [
@@ -257,10 +256,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part1/P1_3/forest_to_building_edge.et",
-      "color": null
+      "color": null,
+      "from": 23
     },
     {
-      "from_": 24,
       "to": 19,
       "path": [],
       "unknown": [
@@ -272,10 +271,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part1/P1_3/forest_to_building_edge.et",
-      "color": null
+      "color": null,
+      "from": 24
     },
     {
-      "from_": 22,
       "to": 20,
       "path": [],
       "unknown": [
@@ -287,10 +286,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part1/P1_3/forest_to_building_edge.et",
-      "color": null
+      "color": null,
+      "from": 22
     },
     {
-      "from_": 0,
       "to": 16,
       "path": [],
       "unknown": [
@@ -302,10 +301,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 0
     },
     {
-      "from_": 16,
       "to": 14,
       "path": [],
       "unknown": [
@@ -317,10 +316,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods_facing_virtual.et",
-      "color": "#8abd84"
+      "color": "#8abd84",
+      "from": 16
     },
     {
-      "from_": 14,
       "to": 21,
       "path": [],
       "unknown": [
@@ -332,10 +331,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part1/P1_3/forest_to_building_edge.et",
-      "color": null
+      "color": null,
+      "from": 14
     },
     {
-      "from_": 17,
       "to": 22,
       "path": [],
       "unknown": [
@@ -347,10 +346,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part1/P1_3/forest_to_building_edge.et",
-      "color": null
+      "color": null,
+      "from": 17
     },
     {
-      "from_": 14,
       "to": 23,
       "path": [],
       "unknown": [
@@ -362,10 +361,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part1/P1_3/forest_to_building_edge.et",
-      "color": null
+      "color": null,
+      "from": 14
     },
     {
-      "from_": 18,
       "to": 24,
       "path": [],
       "unknown": [
@@ -377,7 +376,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part1/P1_3/forest_to_building_edge.et",
-      "color": null
+      "color": null,
+      "from": 18
     }
   ],
   "fill_tiles": [

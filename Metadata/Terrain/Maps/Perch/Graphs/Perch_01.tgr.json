@@ -12,7 +12,6 @@
   },
   "edges": [
     {
-      "from_": 6,
       "to": 0,
       "path": [
         [
@@ -29,10 +28,10 @@
         60
       ],
       "edge_type": "Metadata/Terrain/Maps/Perch/Tiles/perch_ring_virtual.et",
-      "color": null
+      "color": null,
+      "from": 6
     },
     {
-      "from_": 5,
       "to": 1,
       "path": [
         [
@@ -49,10 +48,10 @@
         60
       ],
       "edge_type": "Metadata/Terrain/Maps/Perch/Tiles/perch_ring_virtual.et",
-      "color": null
+      "color": null,
+      "from": 5
     },
     {
-      "from_": 7,
       "to": 5,
       "path": [
         [
@@ -69,10 +68,10 @@
         60
       ],
       "edge_type": "Metadata/Terrain/Maps/Perch/Tiles/perch_ring_virtual.et",
-      "color": null
+      "color": null,
+      "from": 7
     },
     {
-      "from_": 1,
       "to": 6,
       "path": [
         [
@@ -89,10 +88,10 @@
         60
       ],
       "edge_type": "Metadata/Terrain/Maps/Perch/Tiles/perch_ring_virtual.et",
-      "color": null
+      "color": null,
+      "from": 1
     },
     {
-      "from_": 0,
       "to": 7,
       "path": [
         [
@@ -109,7 +108,8 @@
         60
       ],
       "edge_type": "Metadata/Terrain/Maps/Perch/Tiles/perch_ring_virtual.et",
-      "color": null
+      "color": null,
+      "from": 0
     }
   ],
   "fill_tiles": [

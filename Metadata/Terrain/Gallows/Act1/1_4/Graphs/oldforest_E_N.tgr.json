@@ -36,7 +36,6 @@
   },
   "edges": [
     {
-      "from_": 4,
       "to": 0,
       "path": [],
       "unknown": [
@@ -48,10 +47,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 4
     },
     {
-      "from_": 8,
       "to": 3,
       "path": [],
       "unknown": [
@@ -63,10 +62,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/WideRiver/wideriver.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 8
     },
     {
-      "from_": 3,
       "to": 5,
       "path": [],
       "unknown": [
@@ -78,10 +77,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/woods_wideriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 3
     },
     {
-      "from_": 7,
       "to": 6,
       "path": [],
       "unknown": [
@@ -93,10 +92,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleWoods/redvalewoods.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 7
     },
     {
-      "from_": 3,
       "to": 6,
       "path": [],
       "unknown": [
@@ -108,10 +107,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/wideriver_woodsriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 3
     },
     {
-      "from_": 10,
       "to": 8,
       "path": [],
       "unknown": [
@@ -123,10 +122,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 10
     },
     {
-      "from_": 13,
       "to": 10,
       "path": [],
       "unknown": [
@@ -138,10 +137,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 13
     },
     {
-      "from_": 8,
       "to": 11,
       "path": [],
       "unknown": [
@@ -153,10 +152,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/woods_wideriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 8
     },
     {
-      "from_": 9,
       "to": 4,
       "path": [],
       "unknown": [
@@ -168,10 +167,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 9
     },
     {
-      "from_": 12,
       "to": 0,
       "path": [],
       "unknown": [
@@ -183,10 +182,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods_nonwalkable.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 12
     },
     {
-      "from_": 19,
       "to": 0,
       "path": [],
       "unknown": [
@@ -198,10 +197,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleRiver/wideriver_redvaleriver_virtual.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 19
     },
     {
-      "from_": 18,
       "to": 13,
       "path": [],
       "unknown": [
@@ -213,10 +212,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/wideriver_woodsriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 18
     },
     {
-      "from_": 9,
       "to": 15,
       "path": [],
       "unknown": [
@@ -228,10 +227,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/wideriver_woodsriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 9
     },
     {
-      "from_": 15,
       "to": 18,
       "path": [],
       "unknown": [
@@ -243,10 +242,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/wideriver_woodsriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 15
     },
     {
-      "from_": 6,
       "to": 19,
       "path": [],
       "unknown": [
@@ -258,7 +257,8 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/RedvaleRiver/wideriver_redvaleriver_virtual.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 6
     }
   ],
   "fill_tiles": [

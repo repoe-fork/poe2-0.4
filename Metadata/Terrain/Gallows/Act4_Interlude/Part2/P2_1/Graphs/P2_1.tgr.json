@@ -36,7 +36,6 @@
   },
   "edges": [
     {
-      "from_": 22,
       "to": 1,
       "path": [],
       "unknown": [
@@ -48,10 +47,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 22
     },
     {
-      "from_": 16,
       "to": 0,
       "path": [],
       "unknown": [
@@ -63,10 +62,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Badlands/bones_edge.et",
-      "color": "#FFFFFFAA"
+      "color": "#FFFFFFAA",
+      "from": 16
     },
     {
-      "from_": 6,
       "to": 2,
       "path": [],
       "unknown": [
@@ -78,10 +77,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableBorder/unwalkableborder.et",
-      "color": "#ffefd6c4"
+      "color": "#ffefd6c4",
+      "from": 6
     },
     {
-      "from_": 1,
       "to": 3,
       "path": [],
       "unknown": [
@@ -93,10 +92,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part2/P2_1/DuneToBones.et",
-      "color": null
+      "color": null,
+      "from": 1
     },
     {
-      "from_": 0,
       "to": 4,
       "path": [],
       "unknown": [
@@ -108,10 +107,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part2/P2_1/BonesToBorder.et",
-      "color": null
+      "color": null,
+      "from": 0
     },
     {
-      "from_": 2,
       "to": 5,
       "path": [],
       "unknown": [
@@ -123,10 +122,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Interlude/Part2/P2_1/DuneToBorder.et",
-      "color": null
+      "color": null,
+      "from": 2
     },
     {
-      "from_": 18,
       "to": 6,
       "path": [],
       "unknown": [
@@ -138,10 +137,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableBorder/unwalkableborder.et",
-      "color": "#ffefd6c4"
+      "color": "#ffefd6c4",
+      "from": 18
     },
     {
-      "from_": 1,
       "to": 7,
       "path": [],
       "unknown": [
@@ -153,10 +152,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Badlands/bones_edge.et",
-      "color": "#FFFFFFAA"
+      "color": "#FFFFFFAA",
+      "from": 1
     },
     {
-      "from_": 2,
       "to": 8,
       "path": [],
       "unknown": [
@@ -168,10 +167,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 2
     },
     {
-      "from_": 12,
       "to": 13,
       "path": [],
       "unknown": [
@@ -183,10 +182,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Maps/SevenWaters/Tiles/seven_waters_river.et",
-      "color": "#FF75A1CC"
+      "color": "#FF75A1CC",
+      "from": 12
     },
     {
-      "from_": 13,
       "to": 7,
       "path": [],
       "unknown": [
@@ -198,10 +197,10 @@
         15
       ],
       "edge_type": "Metadata/Terrain/Maps/SevenWaters/Tiles/seven_waters_river.et",
-      "color": "#FF75A1CC"
+      "color": "#FF75A1CC",
+      "from": 13
     },
     {
-      "from_": 8,
       "to": 14,
       "path": [],
       "unknown": [
@@ -213,10 +212,10 @@
         15
       ],
       "edge_type": "Metadata/Terrain/Maps/SevenWaters/Tiles/seven_waters_river.et",
-      "color": "#FF75A1CC"
+      "color": "#FF75A1CC",
+      "from": 8
     },
     {
-      "from_": 14,
       "to": 15,
       "path": [],
       "unknown": [
@@ -228,10 +227,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Maps/SevenWaters/Tiles/seven_waters_river.et",
-      "color": "#FF75A1CC"
+      "color": "#FF75A1CC",
+      "from": 14
     },
     {
-      "from_": 15,
       "to": 12,
       "path": [],
       "unknown": [
@@ -243,10 +242,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Maps/SevenWaters/Tiles/seven_waters_river.et",
-      "color": "#FF75A1CC"
+      "color": "#FF75A1CC",
+      "from": 15
     },
     {
-      "from_": 7,
       "to": 16,
       "path": [],
       "unknown": [
@@ -258,10 +257,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/Badlands/bones_edge.et",
-      "color": "#FFFFFFAA"
+      "color": "#FFFFFFAA",
+      "from": 7
     },
     {
-      "from_": 0,
       "to": 17,
       "path": [],
       "unknown": [
@@ -273,10 +272,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableBorder/unwalkableborder.et",
-      "color": "#ffefd6c4"
+      "color": "#ffefd6c4",
+      "from": 0
     },
     {
-      "from_": 17,
       "to": 18,
       "path": [],
       "unknown": [
@@ -288,10 +287,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableBorder/unwalkableborder.et",
-      "color": "#ffefd6c4"
+      "color": "#ffefd6c4",
+      "from": 17
     },
     {
-      "from_": 8,
       "to": 22,
       "path": [],
       "unknown": [
@@ -303,7 +302,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Desert/UnwalkableDune/desert_dune.et",
-      "color": "#ffff3018"
+      "color": "#ffff3018",
+      "from": 8
     }
   ],
   "fill_tiles": [

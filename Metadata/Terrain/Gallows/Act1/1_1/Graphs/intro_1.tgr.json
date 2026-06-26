@@ -32,7 +32,6 @@
   },
   "edges": [
     {
-      "from_": 16,
       "to": 1,
       "path": [
         [
@@ -49,10 +48,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/MudRockpile/mudrockpile.et",
-      "color": "#ffd2af55"
+      "color": "#ffd2af55",
+      "from": 16
     },
     {
-      "from_": 5,
       "to": 4,
       "path": [],
       "unknown": [
@@ -64,10 +63,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/NarrowRiver_Mud/dryriverbed_narrowriverS.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 5
     },
     {
-      "from_": 1,
       "to": 5,
       "path": [],
       "unknown": [
@@ -79,10 +78,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/NarrowRiver_Mud/dryriverbed_narrowriverS.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 1
     },
     {
-      "from_": 0,
       "to": 4,
       "path": [],
       "unknown": [
@@ -94,10 +93,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/NarrowRiver_Mud/dryriverbed_narrowriverM.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 0
     },
     {
-      "from_": 10,
       "to": 3,
       "path": [],
       "unknown": [
@@ -109,10 +108,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RockpileRiver/rockpileriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 10
     },
     {
-      "from_": 15,
       "to": 9,
       "path": [],
       "unknown": [
@@ -124,10 +123,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/MudRockpile/mudrockpile.et",
-      "color": "#ffd2af55"
+      "color": "#ffd2af55",
+      "from": 15
     },
     {
-      "from_": 22,
       "to": 0,
       "path": [],
       "unknown": [
@@ -139,10 +138,10 @@
         12
       ],
       "edge_type": "Metadata/Terrain/Woods/MudBankGentle/wideriver_mudbankgentle_virtual.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 22
     },
     {
-      "from_": 0,
       "to": 3,
       "path": [],
       "unknown": [
@@ -154,10 +153,10 @@
         12
       ],
       "edge_type": "Metadata/Terrain/Woods/MudBankGentle/wideriver_mudbankgentle_virtual.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 0
     },
     {
-      "from_": 3,
       "to": 4,
       "path": [],
       "unknown": [
@@ -169,10 +168,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/MudRockpile/mudrockpile.et",
-      "color": "#ffd2af55"
+      "color": "#ffd2af55",
+      "from": 3
     },
     {
-      "from_": 11,
       "to": 13,
       "path": [],
       "unknown": [
@@ -184,10 +183,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RockpileRiver/rockpileriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 11
     },
     {
-      "from_": 13,
       "to": 14,
       "path": [],
       "unknown": [
@@ -199,10 +198,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RockpileRiver/rockpileriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 13
     },
     {
-      "from_": 9,
       "to": 14,
       "path": [],
       "unknown": [
@@ -214,10 +213,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/RockpileRiver/rockpileriver.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 9
     },
     {
-      "from_": 12,
       "to": 9,
       "path": [],
       "unknown": [
@@ -229,10 +228,10 @@
         90
       ],
       "edge_type": "Metadata/Terrain/Woods/RockpileRiver/rockpileriver_facing_virtual.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 12
     },
     {
-      "from_": 0,
       "to": 15,
       "path": [],
       "unknown": [
@@ -244,10 +243,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/MudRockpile/mudrockpile.et",
-      "color": "#ffd2af55"
+      "color": "#ffd2af55",
+      "from": 0
     },
     {
-      "from_": 4,
       "to": 16,
       "path": [],
       "unknown": [
@@ -259,10 +258,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/MudRockpile/mudrockpile.et",
-      "color": "#ffd2af55"
+      "color": "#ffd2af55",
+      "from": 4
     },
     {
-      "from_": 9,
       "to": 22,
       "path": [],
       "unknown": [
@@ -274,7 +273,8 @@
         12
       ],
       "edge_type": "Metadata/Terrain/Woods/MudBankGentle/wideriver_mudbankgentle_virtual.et",
-      "color": "#FF1919FF"
+      "color": "#FF1919FF",
+      "from": 9
     }
   ],
   "fill_tiles": [

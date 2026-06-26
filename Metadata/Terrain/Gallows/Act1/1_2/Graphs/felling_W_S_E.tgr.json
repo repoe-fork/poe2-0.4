@@ -40,7 +40,6 @@
   },
   "edges": [
     {
-      "from_": 10,
       "to": 0,
       "path": [],
       "unknown": [
@@ -52,10 +51,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/RiverSlash/slashriver_facing_virtual.et",
-      "color": null
+      "color": null,
+      "from": 10
     },
     {
-      "from_": 1,
       "to": 3,
       "path": [],
       "unknown": [
@@ -67,10 +66,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods_WideRiver/wideriver_woodsriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 1
     },
     {
-      "from_": 15,
       "to": 4,
       "path": [],
       "unknown": [
@@ -82,10 +81,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 15
     },
     {
-      "from_": 11,
       "to": 2,
       "path": [],
       "unknown": [
@@ -97,10 +96,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 11
     },
     {
-      "from_": 5,
       "to": 2,
       "path": [],
       "unknown": [
@@ -112,10 +111,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash_Woods/slash_woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 5
     },
     {
-      "from_": 1,
       "to": 6,
       "path": [],
       "unknown": [
@@ -127,10 +126,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/RiverSlash/wideriver_slashriver_virtual.et",
-      "color": null
+      "color": null,
+      "from": 1
     },
     {
-      "from_": 13,
       "to": 0,
       "path": [
         [
@@ -147,10 +146,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash/slash.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 13
     },
     {
-      "from_": 9,
       "to": 1,
       "path": [],
       "unknown": [
@@ -162,10 +161,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash_Woods/slash_woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 9
     },
     {
-      "from_": 6,
       "to": 10,
       "path": [],
       "unknown": [
@@ -177,10 +176,10 @@
         50
       ],
       "edge_type": "Metadata/Terrain/Woods/RiverSlash/slashriver_facing_virtual.et",
-      "color": null
+      "color": null,
+      "from": 6
     },
     {
-      "from_": 14,
       "to": 0,
       "path": [],
       "unknown": [
@@ -192,10 +191,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash/slash.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 14
     },
     {
-      "from_": 2,
       "to": 13,
       "path": [],
       "unknown": [
@@ -207,10 +206,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash/Trailside/slash_trailside.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 2
     },
     {
-      "from_": 4,
       "to": 11,
       "path": [],
       "unknown": [
@@ -222,10 +221,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 4
     },
     {
-      "from_": 8,
       "to": 13,
       "path": [],
       "unknown": [
@@ -237,10 +236,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Mudburrow/burrower_trail.et",
-      "color": "#4D1900"
+      "color": "#4D1900",
+      "from": 8
     },
     {
-      "from_": 6,
       "to": 14,
       "path": [],
       "unknown": [
@@ -252,10 +251,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Slash/slash.et",
-      "color": "#FF655c58"
+      "color": "#FF655c58",
+      "from": 6
     },
     {
-      "from_": 3,
       "to": 15,
       "path": [],
       "unknown": [
@@ -267,7 +266,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Woods/Woods/woods.et",
-      "color": "#b3cf17"
+      "color": "#b3cf17",
+      "from": 3
     }
   ],
   "fill_tiles": [

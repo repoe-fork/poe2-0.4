@@ -40,7 +40,6 @@
   },
   "edges": [
     {
-      "from_": 2,
       "to": 3,
       "path": [],
       "unknown": [
@@ -52,10 +51,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleToWater/jungle_to_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 2
     },
     {
-      "from_": 9,
       "to": 6,
       "path": [],
       "unknown": [
@@ -67,10 +66,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleToWater/jungle_to_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 9
     },
     {
-      "from_": 7,
       "to": 3,
       "path": [
         [
@@ -91,10 +90,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Water/water.et",
-      "color": "#FF0000FF"
+      "color": "#FF0000FF",
+      "from": 7
     },
     {
-      "from_": 11,
       "to": 10,
       "path": [],
       "unknown": [
@@ -106,10 +105,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/SandToWater/sand_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 11
     },
     {
-      "from_": 13,
       "to": 5,
       "path": [],
       "unknown": [
@@ -121,10 +120,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleToWater/jungle_to_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 13
     },
     {
-      "from_": 0,
       "to": 7,
       "path": [
         [
@@ -141,10 +140,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Water/water.et",
-      "color": "#FF0000FF"
+      "color": "#FF0000FF",
+      "from": 0
     },
     {
-      "from_": 4,
       "to": 13,
       "path": [],
       "unknown": [
@@ -156,10 +155,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleToWater/jungle_to_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 4
     },
     {
-      "from_": 8,
       "to": 15,
       "path": [],
       "unknown": [
@@ -171,10 +170,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Sand/edge_SandMud.et",
-      "color": "#FFFFFF00"
+      "color": "#FFFFFF00",
+      "from": 8
     },
     {
-      "from_": 3,
       "to": 16,
       "path": [],
       "unknown": [
@@ -186,10 +185,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
-      "color": "#FF00FF00"
+      "color": "#FF00FF00",
+      "from": 3
     },
     {
-      "from_": 15,
       "to": 16,
       "path": [],
       "unknown": [
@@ -201,10 +200,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Sand/edge_SandMud.et",
-      "color": "#FFFFFF00"
+      "color": "#FFFFFF00",
+      "from": 15
     },
     {
-      "from_": 9,
       "to": 1,
       "path": [],
       "unknown": [
@@ -216,10 +215,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/SandToWater/sand_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 9
     },
     {
-      "from_": 1,
       "to": 14,
       "path": [],
       "unknown": [
@@ -231,10 +230,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/SandToWater/sand_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 1
     },
     {
-      "from_": 9,
       "to": 16,
       "path": [],
       "unknown": [
@@ -246,10 +245,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Sand/JungleSand.et",
-      "color": "#FF80FF00"
+      "color": "#FF80FF00",
+      "from": 9
     },
     {
-      "from_": 0,
       "to": 21,
       "path": [],
       "unknown": [
@@ -261,10 +260,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleToWater/jungle_to_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 0
     },
     {
-      "from_": 0,
       "to": 8,
       "path": [
         [
@@ -281,10 +280,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
-      "color": "#FF00FF00"
+      "color": "#FF00FF00",
+      "from": 0
     },
     {
-      "from_": 14,
       "to": 10,
       "path": [],
       "unknown": [
@@ -296,10 +295,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/SandToWater/sand_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 14
     },
     {
-      "from_": 14,
       "to": 15,
       "path": [],
       "unknown": [
@@ -311,10 +310,10 @@
         40
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/SandToWater/sand_river_virtual.et",
-      "color": "#ff00ffff"
+      "color": "#ff00ffff",
+      "from": 14
     },
     {
-      "from_": 15,
       "to": 22,
       "path": [],
       "unknown": [
@@ -326,10 +325,10 @@
         40
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleCreek/creek_virtual.et",
-      "color": "#ff0000ff"
+      "color": "#ff0000ff",
+      "from": 15
     },
     {
-      "from_": 22,
       "to": 7,
       "path": [],
       "unknown": [
@@ -341,10 +340,10 @@
         40
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleCreek/creek_virtual.et",
-      "color": "#ff0000ff"
+      "color": "#ff0000ff",
+      "from": 22
     },
     {
-      "from_": 11,
       "to": 23,
       "path": [],
       "unknown": [
@@ -356,10 +355,10 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/JungleToWater/jungle_to_water.et",
-      "color": "#FF00FFFF"
+      "color": "#FF00FFFF",
+      "from": 11
     },
     {
-      "from_": 11,
       "to": 8,
       "path": [],
       "unknown": [
@@ -371,7 +370,8 @@
         0
       ],
       "edge_type": "Metadata/Terrain/Jungle/JungleExterior/Sand/JungleSand.et",
-      "color": "#FF80FF00"
+      "color": "#FF80FF00",
+      "from": 11
     }
   ],
   "fill_tiles": [
