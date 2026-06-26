@@ -1,0 +1,459 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Hideouts/BeaconOfSalvation/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "IslandInnerCliff",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/Fills/Cliff_Fill_Small_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/Cliff_Fill_Small_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "IslandOcean",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/ocean_boarder_fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/ocean_boarder_fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "IslandOceanDeepwater",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/Fills/Ocean_DeepWater_Fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/Fills/Ocean_Fill_01.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/Ocean_Fill_01.tgt"
+      }
+    },
+    {
+      "file": "BoatTraversableGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/ocean_blank_large_fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/ocean_boarder_fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/ocean_blank_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/ocean_blank_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Islands/Tiles/Island/island_ocean.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": "decals.dct",
+    "Overlays": "overlays.toy",
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hideout",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Rooms/BeaconOfSalvation_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    25,
+    25
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/ocean_blank_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/ocean_blank_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/ocean_boarder_fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/ocean_boarder_fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/Hideout_BeaconOfSalvation.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/Hideout_BeaconOfSalvation.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/BoS_Island_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "island1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/BoS_Island_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/BoS_Island_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "island2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/BoS_Island_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/BoS_Island_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "island3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/BoS_Island_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/BoS_Island_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "island4",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/BoS_Island_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/BoS_Unwalkable_rock_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "spire",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/BoS_Unwalkable_rock_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanDeepWater/Ocean_DeepWater_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/Fills/Ocean_Fill_01.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/Ocean_Fill_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanDeepWater/Ocean_DeepWater_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/Fills/Ocean_Fill_01.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/Ocean_Fill_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanDeepWater/Ocean_DeepWater_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/Fills/Ocean_Fill_01.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/Ocean_Fill_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cc_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cc_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cv_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_Cv_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_St_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/TwilightIsland/OceanCliffs/OceanCliff_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/ocean_boarder_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/ocean_boarder_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/ocean_boarder_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/ocean_boarder_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Tiles/ocean_boarder_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BeaconOfSalvation/ocean_boarder_Cv_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

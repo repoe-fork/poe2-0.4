@@ -1,0 +1,344 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/past_master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "VaalWater",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/VaalExterior/Water/Water_Fill_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/Water/Water_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "AbyssGroundFill",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/abyss_fill_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Town/jungle_abyss_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/abyss_fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank_invisible.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "past_random_fill_tiles.gft",
+    "MaterialsList": "past_materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/abyss_ground_fill.gt",
+    "Reskin": null,
+    "RoomSet": "past_generate.rs",
+    "TileSet": "past_tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "PastTown",
+      "strings": [
+        "teleport3",
+        "telepad4"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 14,
+      "y": 19
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Rooms/Past/past_town_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "PastTown",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    13,
+    17
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/jungle_town_past_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "past_town",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Town/jungle_town_past_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/jungle_town_past_Background_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "past_town_side",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Town/jungle_town_past_Background_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/jungle_town_past_Background_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "past_town_side",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Town/jungle_town_past_Background_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/jungle_town_past_lower_entrance_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "past_lower_entrance",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Town/jungle_town_past_lower_entrance_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/jungle_town_past_staircase_mid_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "past_stairs_mid",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Town/jungle_town_past_staircase_mid_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/BuildingWall_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/BuildingWall/BuildingWall_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/BuildingWall_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/BuildingWall/BuildingWall_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/BuildingWall_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/BuildingWall/BuildingWall_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/WaterWall_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/Water/WaterWall_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/WaterWall_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/Water/WaterWall_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/WaterWallEdge_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/Water/WaterWallEdge_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/jungle_abyss_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank_invisible.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/jungle_abyss_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "town_fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Town/jungle_abyss_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/UtzaalCity_Transition_Past_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "area_transition",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/AreaTransitions/UtzaalCity_Transition_Past_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/WaterEdge_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/Water/WaterEdge_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/BuildingFill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "building_fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/BuildingWall/BuildingFill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/BuildingFill_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "building_fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/BuildingWall/BuildingFill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/BuildingFill_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "building_fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/BuildingWall/BuildingFill_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Delirium/Act3Town/Tiles/Town/BuildingWall/BuildingFill_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "building_fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalExterior/BuildingWall/BuildingFill_04.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Missions/Hideouts/ArenaInnocence/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/black.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/IncaDungeon/dungeon_blackness_v01_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hideout",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 11,
+      "y": 10
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaInnocence/Rooms/hideout.arm",
+      "prefix": [
+        "33"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    3,
+    3
+  ],
+  "strings": [
+    "Metadata/Terrain/Act5/Area5/GroundTypes/innocence_boss_ground.gt",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/Innocence/Feature/Innocence_boss_transition_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stainedglasstransition",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/Innocence/Innocence_boss_transition_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/Innocence/Feature/Innocence_stainglass_boss_concave_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "boss_concave",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/Innocence/Innocence_stainglass_boss_concave_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/Innocence/Feature/Innocence_stainglass_boss_straight_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "boss_straight_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/Innocence/Innocence_stainglass_boss_straight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/Innocence/Feature/Innocence_stainglass_boss_straight_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "boss_straight_02",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/Innocence/Innocence_stainglass_boss_straight_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/Innocence/Terrace/Innocence_stainglass_boss_concave_v02_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/Innocence/Innocence_stainglass_boss_concave_v02_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 19,
+  "subgraphs": null,
+  "file_groups": null
+}

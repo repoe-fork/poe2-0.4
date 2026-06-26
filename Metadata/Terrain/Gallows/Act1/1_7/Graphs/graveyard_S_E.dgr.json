@@ -1,0 +1,5393 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Gallows/Act1/1_7/master.tsi"
+  },
+  "edge_count": 21,
+  "edge_types": {
+    "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et": {
+      "id": "RK_GravestonesThickWall",
+      "color": "#FF884020"
+    },
+    "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et": {
+      "id": "RK_GravestonesWalkways",
+      "color": "#FFFF6030"
+    },
+    "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_graveyard_walkways.et": {
+      "id": "RK_GraveyardWalkways",
+      "color": "#FF666666"
+    },
+    "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_thick.et": {
+      "id": "RK_Thick",
+      "color": "#FF202020"
+    }
+  },
+  "edges": [
+    {
+      "from_": 4,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+      "color": "#FF884020"
+    },
+    {
+      "from_": 17,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+      "color": "#FF884020"
+    },
+    {
+      "from_": 15,
+      "to": 4,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+      "color": "#FF884020"
+    },
+    {
+      "from_": 6,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+      "color": "#FFFF6030"
+    },
+    {
+      "from_": 3,
+      "to": 6,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+      "color": "#FFFF6030"
+    },
+    {
+      "from_": 5,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+      "color": "#FFFF6030"
+    },
+    {
+      "from_": 8,
+      "to": 0,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_graveyard_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_graveyard_walkways.et",
+      "color": "#FF666666"
+    },
+    {
+      "from_": 1,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_graveyard_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_graveyard_walkways.et",
+      "color": "#FF666666"
+    },
+    {
+      "from_": 9,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_graveyard_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_graveyard_walkways.et",
+      "color": "#FF666666"
+    },
+    {
+      "from_": 18,
+      "to": 0,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_thick.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_thick.et",
+      "color": "#FF202020"
+    },
+    {
+      "from_": 0,
+      "to": 11,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_thick.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_thick.et",
+      "color": "#FF202020"
+    },
+    {
+      "from_": 11,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_thick.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_thick.et",
+      "color": "#FF202020"
+    },
+    {
+      "from_": 14,
+      "to": 12,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+      "color": "#FFFF6030"
+    },
+    {
+      "from_": 7,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+      "color": "#FFFF6030"
+    },
+    {
+      "from_": 13,
+      "to": 12,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+      "color": "#FFFF6030"
+    },
+    {
+      "from_": 10,
+      "to": 13,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+      "color": "#FFFF6030"
+    },
+    {
+      "from_": 2,
+      "to": 14,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_walkways.et",
+      "color": "#FFFF6030"
+    },
+    {
+      "from_": 16,
+      "to": 17,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+      "color": "#FF884020"
+    },
+    {
+      "from_": 3,
+      "to": 18,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_thick.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_thick.et",
+      "color": "#FF202020"
+    },
+    {
+      "from_": 15,
+      "to": 20,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+      "color": "#FF884020"
+    },
+    {
+      "from_": 20,
+      "to": 16,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/Graveyard/Roomkeys/RK_gravestones_thickwall.et",
+      "color": "#FF884020"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/BlankGrass1.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/BlankGrass1.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/BlankGrass2.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/BlankGrass2.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/BlankGrass3.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/BlankGrass3.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_large_gravestones_1.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_large_gravestones_2.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_large_gravestones_3.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_large_gravestones_4.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_large_gravestones_5.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_smallgraves_1.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_smallgraves_2.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_smallgraves_3.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_smallgraves_4.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_smallgraves_5.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_smallgraves_6.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_smallgraves_7.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_smallgraves_8.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_smallgraves_9.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_graverows_1.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_graverows_2.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_graverows_3.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_graverows_4.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_graverows_5.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_graverows_6.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_graverows_7.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_graverows_8.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_graverows_9.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_fencedgraves_1.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_fencedgraves_2.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_fencedgraves_3.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_paths_1.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_paths_2.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_paths_3.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_paths_4.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_trees_1.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_trees_2.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_trees_3.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_treerows_1.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_treerows_2.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_treerows_3.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_treerows_4.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_treerows_5.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_treerows_6.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_treerows_7.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/fill_treerows_8.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "GraveyardThickwall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall/Fill_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "ImpassableGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/Fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/Fill_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/Fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Graves",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "InsideWoods",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/Fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/Fill_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Woods/Graveyard/Gravestones/graves.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": "filegroups.fgp"
+  },
+  "node_count": 21,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [
+        10,
+        9,
+        6
+      ],
+      "room": "arena_gate",
+      "strings": [
+        "default",
+        "entrance1"
+      ],
+      "transform": "R270",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 81
+    },
+    {
+      "numbers": [
+        7
+      ],
+      "room": "entrance_tomb",
+      "strings": [
+        "unique1",
+        "entrance5",
+        "entrance6",
+        "killzone=4"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 58
+    },
+    {
+      "numbers": [
+        16,
+        0,
+        11
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "FR270",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 35
+    },
+    {
+      "numbers": [
+        18,
+        1,
+        4
+      ],
+      "room": "secret_cnr_parallel",
+      "strings": [
+        "unique3"
+      ],
+      "transform": "R270",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 150
+    },
+    {
+      "numbers": [
+        2,
+        0
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 12
+    },
+    {
+      "numbers": [
+        5,
+        3
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 150
+    },
+    {
+      "numbers": [
+        4,
+        3
+      ],
+      "room": "entrance_tomb",
+      "strings": [
+        "unique1",
+        "entrance5",
+        "entrance6",
+        "killzone=4"
+      ],
+      "transform": "R270",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 150
+    },
+    {
+      "numbers": [
+        13,
+        5
+      ],
+      "room": "entrance_tomb",
+      "strings": [
+        "unique1",
+        "entrance5",
+        "entrance6",
+        "killzone=4"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 81
+    },
+    {
+      "numbers": [
+        7,
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 104
+    },
+    {
+      "numbers": [
+        8
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 58
+    },
+    {
+      "numbers": [
+        8,
+        13,
+        15
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 58
+    },
+    {
+      "numbers": [
+        11,
+        10
+      ],
+      "room": "secret_door",
+      "strings": [
+        "unique3"
+      ],
+      "transform": "R270",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 58
+    },
+    {
+      "numbers": [
+        12,
+        14
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    },
+    {
+      "numbers": [
+        14,
+        15
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 58
+    },
+    {
+      "numbers": [
+        16,
+        12
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 12
+    },
+    {
+      "numbers": [
+        19,
+        2
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 12
+    },
+    {
+      "numbers": [
+        20,
+        17
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 173
+    },
+    {
+      "numbers": [
+        1,
+        17
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 173
+    },
+    {
+      "numbers": [
+        9,
+        18
+      ],
+      "room": "entrance_mausoleum_wall",
+      "strings": [
+        "unique5",
+        "entrance2",
+        "entrance4",
+        "killzone=4"
+      ],
+      "transform": "R90",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 127
+    },
+    {
+      "numbers": [],
+      "room": "entrance_mausoleum",
+      "strings": [
+        "unique5",
+        "entrance2",
+        "entrance4",
+        "killzone=4"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 35
+    },
+    {
+      "numbers": [
+        19,
+        20
+      ],
+      "room": "arena",
+      "strings": [
+        "entrance3",
+        "teleport1disabled-Arena"
+      ],
+      "transform": "R270",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 81
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/gravestones_1.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/thick_fill_1.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/landmark_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "special",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/wildcard_blank_1.arm",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/wildcard_largegraves_1.arm",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/wildcard_largegraves_2.arm",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/wildcard_largegraves_3.arm",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/wildcard_longgraves_1.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/wildcard_longgraves_2.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Fill/wildcard_longgraves_3.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/arena.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": null,
+      "room_tag": "arena",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/arena_flip.arm",
+      "prefix": null,
+      "suffix": [
+        "FI",
+        "FR90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "arena",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/arena_gate.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "arena_gate",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_1.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum_wall",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_2.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_3.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum_wall",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_4.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_5.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum_wall",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_flip_1.arm",
+      "prefix": null,
+      "suffix": [
+        "FI",
+        "FR90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum_wall",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_flip_2.arm",
+      "prefix": null,
+      "suffix": [
+        "FI",
+        "FR90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_flip_3.arm",
+      "prefix": null,
+      "suffix": [
+        "FI",
+        "FR90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum_wall",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_flip_4.arm",
+      "prefix": null,
+      "suffix": [
+        "FI",
+        "FR90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_mausoleum_flip_5.arm",
+      "prefix": null,
+      "suffix": [
+        "FI",
+        "FR90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_mausoleum_wall",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_1.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_2.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_3.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_4.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_5.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_6.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_flip_1.arm",
+      "prefix": null,
+      "suffix": [
+        "FI",
+        "FR90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_flip_2.arm",
+      "prefix": null,
+      "suffix": [
+        "R90",
+        "FR90",
+        "R180",
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_flip_3.arm",
+      "prefix": null,
+      "suffix": [
+        "R90",
+        "FR90",
+        "R180",
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_flip_4.arm",
+      "prefix": null,
+      "suffix": [
+        "FI",
+        "FR90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_flip_5.arm",
+      "prefix": null,
+      "suffix": [
+        "R90",
+        "FR90",
+        "R180",
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_tomb_flip_6.arm",
+      "prefix": null,
+      "suffix": [
+        "R90",
+        "FR90",
+        "R180",
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "entrance_tomb",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/entrance_grimtangle.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance_grimtangle",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/grave_secret_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "grave_secret",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/grave_secret_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "grave_secret",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/gravestone_cv_mission.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/gravestone_st_mission.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/secret_courtyard_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "secret_courtyard",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/thickwall_secret_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "secret_door",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/thickwall_st_gravestone_secret_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "secret_cnr_perp",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/thickwall_st_gravestone_secret_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "secret_cnr_parallel",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/shrine_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "shrine",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/wildcard_large_mission_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/wildcard_large_mission_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/wildcard_long_mission_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/wildcard_long_mission_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Unique/wildcard_mission.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cc_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cc_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cc_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cc_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cc_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cc_6.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cc_thickwall_cc_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cc_thickwall_cc_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cc_thickwall_cc_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_6.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_7.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_walkway_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_walkway_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_walkway_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_walkway_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_cv_walkway_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_quad_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_quad_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_quad_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_6.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_7.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_8.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_9.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_10.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_11.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_walkway_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_walkway_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_walkway_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_walkway_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Gravestone/gravestone_st_walkway_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_st_gravestone_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/gravestones_thickwall_cc_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/gravestones_thickwall_combo_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/gravestones_thickwall_cv_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/gravestones_thickwall_st_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cc_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cc_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_gravestone_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_gravestone_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_gravestone_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_gravestone_cc_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_cv_gravestone_cc_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_gravestone_combo_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_gravestone_combo_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_st_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_st_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_st_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_st_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_st_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_st_gravestone_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Thickwall/thickwall_st_gravestone_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_cnr_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_cnr_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_cnr_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_cnr_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_cnr_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_cnr_6.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_cnr_thick_cv_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_cnr_thick_cv_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_6.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_7.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_thick_cv_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_thick_gravestone_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_end_thick_st_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_quad_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_quad_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_st_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_st_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_st_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_st_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_st_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_st_6.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_st_7.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_tri_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_tri_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_tri_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_tri_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_7/Rooms/Walkway/walkway_tri_5.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    10,
+    9
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/BlankGrass1.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/BlankGrass1.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/BlankGrass2.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/BlankGrass2.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/BlankGrass3.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/BlankGrass3.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Church/black.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/IncaDungeon/dungeon_blackness_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/forced_BlankGrass1.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/BlankGrass1.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/tomb_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "tomb_transition",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/tomb_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/tomb_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "tomb_transition",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/tomb_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/mausoleum_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "mausoleum_transition",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/mausoleum_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/secretcollapse_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "secret_collapse",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/collapse_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/secretcollapse_open_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "secret_collapse_open",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/collapse_opened_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/secretgrave_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "secret_grave",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/secretgrave_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/secretgrave_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "secret_grave_v2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/secretgrave_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/thick_st_secret_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "secret_door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/thick_st_secret_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/thick_st_secret_opened_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "secret_opened",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/thick_st_secret_opened_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/GraveyardToGrimTangle_transition_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "GrimTangle",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Transitions/GraveyardToGrimTangle_transition_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/GraveyardArena.tdt",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": "arena",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/GraveyardArena.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/walkway_St_thinwall_BossGate_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "bossgate",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/walkway_St_thinwall_BossGate_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/MoundsAndKnolls/mound_v03_11.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "mound",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/MoundsAndHoles/mound_v03_11.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/MoundsAndKnolls/mound_v03_12.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "mound",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/MoundsAndHoles/mound_v03_12.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/WildcardFill_01_forced.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forced",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/WalkwaysFill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_fill_forced_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forced",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Feature/AccessibleFence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "accessiblefence",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/AccessibleFence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/CvMM_ironfence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CvMM_ironfence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/CvMM_ironfence_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CvMM_ironfence_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/StMM_ironfence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/StMM_ironfence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_cnr_large_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_cnr_large_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_cnr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_cnr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_end_large_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_end_large_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_end_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_end_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_st_large_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_st_large_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_st_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_st_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_st_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_st_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_tri_large_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/thickCv_ironfence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/thickCv_ironfence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/thickCv_ironfence_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/thickCv_ironfence_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/thickSt_ironfence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/thickSt_ironfence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_ledgeCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_ledgeCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_ledgeCc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_ledgeCc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_ledgeCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_ledgeCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_ledgeCv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_ledgeCv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_ledgeCv_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_ledgeCv_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_ledgeCv_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_ledgeCv_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_ledgeSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_ledgeSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_ledgeSt_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_ledgeSt_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_ledgeSt_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_ledgeSt_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_Cnr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_Cnr_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_Cnr_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_Cc_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_End_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_End_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_End_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_End_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_End_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_End_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_End_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_End_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_thinwall_Tri_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_thinwall_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_special_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ironfence",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_special_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_special_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ironfence",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_special_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_SmashedSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "smashed",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_SmashedSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/ironfence_SmashedSt_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "smashed",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/ironfence_SmashedSt_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/Cc_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/Cc_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/Cc_Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/Cc_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CcMM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CcMM_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CcMM_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CcMM_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CcCcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CcCcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/Cv_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/Cv_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/Cv_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/Cv_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/Cv_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/Cv_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/Cv_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/Cv_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CvMM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CvMM_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CvMM_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CvMM_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/GS_GW_T_LF_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/GS_GW_T_LF_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/GS_GW_T_LF_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/GS_GW_T_LF_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/GS_GW_T_LFI_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/GS_GW_T_LFI_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/St_St_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/St_St_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/St_St_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/St_St_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/St_St_St_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/St_St_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/StMM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/StMM_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/StMM_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/StMM_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/Tri_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/End_Thick_Cv_Combo_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/End_Thick_Cv_Combo_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/End_Thick_Cv_Thin_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/End_Thick_Cv_Thin_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/End_Thick_Cv_Ironfence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/End_Thick_Cv_Ironfence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/End_Thick_Cv_Walkway_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/End_Thick_Cv_Walkway_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/StMM_Thin_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/StMM_Thin_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CvMM_Thin_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CvMM_Thin_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CvMM_Thin_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CvMM_Thin_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CvMM_Thin_Ironfence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CvMM_Thin_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/CvMM_Thin_Walkway_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/CvMM_Thin_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Gravestones/Thick_Thin_Ironfence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Gravestones/Thick_thin_ironfence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/End_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/End_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/End_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/End_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/Fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/Fill_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/Fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/St_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/St_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Stairs/Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Stairs/Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Stairs/Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Stairs/Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Stairs/Cc_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "cornerstair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Stairs/Cc_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Stairs/Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Stairs/Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Stairs/Cv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Stairs/Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Stairs/St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Stairs/St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Stairs/St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Stairs/St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall/Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall/Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall/Cc_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall/Cc_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall/Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall/Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall/Fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall/St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall/St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_ImpassableLedgefence/Cv_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_ImpassableLedgeFence/Cv_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_ImpassableLedgefence/Cv_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_ImpassableLedgeFence/Cv_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_ImpassableLedgefence/St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_ImpassableLedgeFence/St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_ImpassableWall/Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall/Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_ImpassableWall/Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall/Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_ImpassableWall/St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall/St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/ImpassableWall/Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/ImpassableWall/Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_ImpassableLedgefence/Cv_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/Cv_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_ImpassableWall/ImpassableLF_LF_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/ImpassableLF_LF_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Ledgefence/Cv_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/Cv_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Ledgefence/Cv_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/Cv_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Ledgefence/Cv_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/Cv_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Ledgefence/Cv_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/Cv_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Ledgefence/Cv_St_Ironfence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/Cv_Ironfence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Ledgefence/Cv_St_Ironfence_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/Cv_Ironfence_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Ledgefence/Cv_St_Thinwall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/Cv_Thinwall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Ledgefence/Cv_St_Thinwall_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/Cv_Thinwall_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Ledgefence/St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Ledgefence/St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Thinwall/Cv_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Thinwall/Cv_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Thinwall/St_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Thinwall/St_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Thinwall/St_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thickwall_Thinwall/St_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Walkway/Walkway_Cv_Thick_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/Walkway_Cv_Thick_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Walkway/Walkway_End_Thick_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/WalkwayToThick_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Walkway/Walkway_End_Thick_Ironfence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/WalkwayToThick_Cv_Ironfence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Walkway/Walkway_End_Thick_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/WalkwayToThick_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thickwall_Walkway/Walkway_End_Thick_Thin_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/WalkwayToThick_Cv_Thin_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/Cc_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/Cc_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/Cv_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/Cv_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/Cv_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/Cv_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/End_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/End_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/End_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/End_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/End_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/End_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/End_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/End_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/St_01.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/St_door_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/St_door_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/St_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/St_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/St_steps_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "steps",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/St_steps_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/St_steps_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/St_steps_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/St_steps_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/St_steps_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/St_steps_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/St_steps_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/Tri_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/Thinwall/X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/Thinwall/X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/double_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/double_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/double_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/double_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/double_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/double_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/double_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/double_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/double_St_end_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/double_St_end_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/single_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/single_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/single_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/single_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/single_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/single_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/single_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/single_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/single_St_end_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/single_St_end_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/St_end_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/St_end_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/Thinwall_Cc_Walkway_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/thinwall_Cc_walkway_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/Thinwall_Cc_Walkway_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/thinwall_Cc_walkway_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/Thinwall_Cc_Walkway_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/thinwall_Cc_walkway_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_01.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_02.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_02_feature.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "walkway_hollow",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_03.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_01.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_02.tdt",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_03.tdt",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_04.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_end_01.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_end_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_end_02.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_end_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Tri_01.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Tri_02.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Tri_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_waypoint.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "waypoint",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_Fence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_fence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_Fence_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_fence_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_Fence_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_fence_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_Fence_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_fence_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_Thinwall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_thinwall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Cc_Thinwall_Fence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Cc_thin_fence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Fence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_fence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Fence_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_fence_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Fence_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_fence_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Fence_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_fence_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Fence_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_fence_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_07.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_08.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_09.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_09.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_End_Thinwall_10.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_End_thinwall_10.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_Fence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_fence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_Fence_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_fence_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_Fence_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_fence_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_Fence_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_fence_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_Thinwall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_thinwall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_Thinwall_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_thinwall_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_St_Thinwall_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_St_thinwall_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Tri_Fence_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Tri_fence_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Tri_Fence_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Tri_fence_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Graveyard/WalkwayTrim/walkway_Tri_Thinwall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Graveyard/WalkwayTrims/walkway_Tri_thinwall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CcMS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CcMS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CcSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CcSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CcWM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CcWM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CcWS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CcWS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CcWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CcWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CvMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CvMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CvSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CvSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CvSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CvSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CvSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CvSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/CvWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/CvWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/Fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/StMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/StMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/StSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/StSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/StSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/StSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/StWS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/StWS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Woods/StWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Woods/StWW_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": {
+    "passage": [
+      "Metadata/Terrain/Gallows/Act1/1_7/Subarea/Graphs/_graveyard_passage_1.dgr",
+      "Metadata/Terrain/Gallows/Act1/1_7/Subarea/Graphs/_graveyard_passage_2.dgr",
+      "Metadata/Terrain/Gallows/Act1/1_7/Subarea/Graphs/_graveyard_passage_3.dgr"
+    ]
+  }
+}

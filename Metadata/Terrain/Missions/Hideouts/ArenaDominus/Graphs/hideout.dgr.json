@@ -1,0 +1,140 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Missions/Hideouts/ArenaDominus/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "SceptreSky",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/RuinedCity/Sceptre/Blank_invisible.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank_invisible.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/RuinedCity/Sceptre/sceptre_sky.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hideout",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 12,
+      "y": 8
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaDominus/Rooms/hideout.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    4,
+    4
+  ],
+  "strings": [
+    "",
+    "Metadata/Terrain/Act3/Area18Level3/GroundTypes/city_tower.gt",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank_invisible.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank_invisible.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaDominus/Tiles/Act3_tower_01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "tower",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act3/Tower/Dominus_Hideout/Act3_tower_01_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 19,
+  "subgraphs": null,
+  "file_groups": null
+}

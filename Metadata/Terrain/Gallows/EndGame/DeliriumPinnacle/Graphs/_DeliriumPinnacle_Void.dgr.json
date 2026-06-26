@@ -1,0 +1,207 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/master_subgraph.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Tiles/Mind_Void_fill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Arenas/DeliriumPinnacle/Mind_Void.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Tiles/Outer_Fill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Arenas/DeliriumPinnacle/Outer_Fill.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "void",
+      "strings": [
+        "telepad2",
+        "teleport1",
+        "telepad3",
+        "teleport4"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Rooms/Delirium_Boss_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Rooms/DeliriumPinnacle_Entrance_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Rooms/DeliriumPinnacle_MindVoid_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "void",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    6,
+    6
+  ],
+  "strings": [
+    "",
+    "Metadata/Terrain/Act2/Area5Level1/GroundTypes/church_floor.gt",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Tiles/Outer_Fill.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Arenas/DeliriumPinnacle/Outer_Fill.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Tiles/Mind_Void_fill.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Arenas/DeliriumPinnacle/Mind_Void.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Tiles/Delirium_Pinnacle_Boss.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "boss",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Arenas/DeliriumPinnacle/Delirium_Pinnacle_Boss.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Tiles/Delirium_Pinnacle_Entrance_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Entrance",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Arenas/DeliriumPinnacle/Delirium_Pinnacle_Entrance_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Tiles/Mind_Void_st.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Arenas/DeliriumPinnacle/Mind_Void.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/EndGame/DeliriumPinnacle/Tiles/Mind_Void_cv.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Arenas/DeliriumPinnacle/Mind_Void.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

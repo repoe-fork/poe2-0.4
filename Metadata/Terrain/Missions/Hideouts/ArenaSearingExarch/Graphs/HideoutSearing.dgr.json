@@ -1,0 +1,157 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Missions/Hideouts/ArenaSearingExarch/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaSearingExarch/Tiles/cleansingflame_fill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/EndGame/PrimordialArenas/CleansingFireArena/cleansingflame_fill.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": [
+      5
+    ],
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hideout",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 3,
+      "y": 4
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaSearingExarch/Rooms/hideout.arm",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    4,
+    4
+  ],
+  "strings": [
+    "",
+    "Metadata/Terrain/Act2/Area5Level1/GroundTypes/church_floor.gt",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaSearingExarch/Tiles/cleansingflame_fill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/EndGame/PrimordialArenas/CleansingFireArena/cleansingflame_fill.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaSearingExarch/Tiles/cleansingflame_arena.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "cleansing_flame_arena",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/EndGame/PrimordialArenas/CleansingFireArena/cleansingflame_arena.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 20,
+  "subgraphs": null,
+  "file_groups": null
+}

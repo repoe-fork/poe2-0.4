@@ -1,0 +1,175 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Hideouts/ArcaneIsle/subscene_master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/ArcaneIsle/Tiles/AbyssFill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "SkyAbyss",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/ArcaneIsle/Tiles/AbyssFill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Fill_02.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "subscene_random_fill_tiles.gft",
+    "MaterialsList": "subscene_materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Hideouts/ArcaneIsle/Tiles/sky_abyss.gt",
+    "Reskin": null,
+    "RoomSet": "subscene_generate.rs",
+    "TileSet": "subscene_tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "skybox",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/ArcaneIsle/Rooms/Subscene_bottom.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "skybox",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    14,
+    16
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/ArcaneIsle/Tiles/AbyssFill.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/ArcaneIsle/Tiles/Skybox_Ground_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "skybox",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/ArcaneIsle/Skybox_Ground_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/ArcaneIsle/Tiles/Skybox_Ground_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "skybox",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/ArcaneIsle/Skybox_Ground_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/ArcaneIsle/Tiles/Skybox_Ground_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "skybox",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/ArcaneIsle/Skybox_Ground_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/ArcaneIsle/Tiles/Skybox_Ground_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "skybox",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/ArcaneIsle/Skybox_Ground_04.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

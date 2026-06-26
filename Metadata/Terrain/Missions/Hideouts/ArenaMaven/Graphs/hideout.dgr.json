@@ -1,0 +1,149 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Missions/Hideouts/ArenaMaven/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/EndGame/MapAtlasMaven/Tiles/maven_fill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/EndGame/Maven/fill_maven_outer.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "ImpassableGroundNoFlood",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/EndGame/MapAtlasMaven/Tiles/maven_fill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/EndGame/Maven/fill_maven_outer.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": "temple.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/impassable_ground_noflood.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": "Metadata/Terrain/edge_points.edp",
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hub",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaMaven/Rooms/hideout.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hub",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    3,
+    3
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/EndGame/MapAtlasMaven/Tiles/maven_fill.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/EndGame/Maven/fill_maven_outer.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/EndGame/MapAtlasMaven/Tiles/maven_arena.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "maven_arena",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/EndGame/Maven/maven_arena.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/EndGame/MapAtlasMaven/Tiles/maven_arena_active.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "maven_arena_active",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/EndGame/Maven/maven_arena.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 19,
+  "subgraphs": null,
+  "file_groups": null
+}

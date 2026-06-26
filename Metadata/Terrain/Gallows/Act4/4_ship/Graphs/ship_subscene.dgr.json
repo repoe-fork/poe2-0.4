@@ -1,0 +1,174 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Gallows/Act4/4_ship/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "ShipVoid",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/KalguurShip/ship_void_fill_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/KalguurShip/ship_void_fill_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Islands/Tiles/KalguurShip/ship_void.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "boat",
+      "strings": [
+        "default",
+        "telepad1",
+        "teleport2-%areaname%",
+        "entrance1"
+      ],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Gallows/Act4/4_ship/Rooms/boat_01.arm",
+      "prefix": null,
+      "suffix": [
+        "I"
+      ],
+      "tile_tag": null,
+      "room_tag": "boat",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    1,
+    1
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/KalguurShip/KalguurShip_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "kalguur_ship",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Islands/Tiles/KalguurShip/KalguurShip_Town_01.tdt",
+        "tile_parent": null,
+        "tile_tag": "kalguur_ship",
+        "tile_tgt": "Art/Models/Terrain/Islands/KalguurShip/KalguurShip_Town_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/KalguurShip/KalguurShip_void_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "kalguur_ship",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Islands/Tiles/KalguurShip/KalguurShip_Town_01.tdt",
+        "tile_parent": null,
+        "tile_tag": "kalguur_ship",
+        "tile_tgt": "Art/Models/Terrain/Islands/KalguurShip/KalguurShip_Town_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/KalguurShip/ship_rock_void_fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "VoidFill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/KalguurShip/ship_void_fill_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

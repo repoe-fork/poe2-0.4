@@ -1,0 +1,285 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Hideouts/Farmlands/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/RoadFields/Fills/Fill_Wildcard_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "FieldTrims",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Fills/Weedfill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "WoodsCliff",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Cliff/Fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Cliff/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "VillageUnwalkableGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/RoadFields/Fills/Fill_Unwalkable_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "VillageWalkalbeGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/RoadFields/Fills/Fill_Walkable_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "VillageHarvestedGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/RoadFields/Fills/Fill_Harvested_01.tdt",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/RoadFields/Fills/Fill_Harvested_02.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/RoadFields/Fills/Fill_Harvested_03.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Woods/Village/RoadFields/UnwalkableField/village_unwalkable_ground.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": "decals.dct",
+    "Overlays": "overlays.toy",
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hideout_claimable",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/Farmlands/Rooms/hideout_farmlands.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Farmlands/Rooms/hideout_farmlands_claimable.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout_claimable",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    7,
+    6
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Farmlands/Tiles/Farmland_Hideout.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Road/RoadFields/WalkableEdge/FieldWalkable_Cnr_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/WalkableEdge/FieldWalkable_Door_St_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/WalkableEdge/FieldWalkable_Tri_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/WalkableEdge/FieldWalkable_St_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/RoadEdge/RoadUnwalkable_St_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/WalkableEdge/FieldWalkable_DoorClosed_St_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/WalkableEdge/FieldWalkable_Quad_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/RoadEdge/RoadUnwalkable_Quad_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/WalkableEdge/FieldWalkable_Door_Tri_01.tgt;Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/RoadEdge/RoadOpen_St_01.tgt;Art/Models/Terrain/Woods/Tiles/Road/RoadFields/RoadEdge/RoadOpen_Tri_01.tgt;Art/Models/Terrain/Woods/Tiles/Village/Huts/YurtUna_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

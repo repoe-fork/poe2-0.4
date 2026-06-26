@@ -1,0 +1,1421 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CavePath/Blank_01_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/CavePath/Blank_01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/3x3_BlackFill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/CavePath/Cavepassage_blacknessNoFog_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BuriedCityAbyss",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/AbyssFill_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/AbyssFill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Abyss/1x1_Abyss_Fill_01.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Abyss/1x1_Abyss_Fill_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": "decals.dct",
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": "G2_13_death_zone",
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "airlock_2",
+      "strings": [
+        "default",
+        "exit2",
+        "exit1"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Unique/boss_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Airlock/airlock_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "airlock_1",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Airlock/airlock_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "airlock_2",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Airlock/airlock_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "airlock_3",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Arena/arena_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "arena_01",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Arena/arena_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "arena_02",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Arena/arena_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "arena_03",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Arena/arena_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "arena_04",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Arena/arena_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "arena_05",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Arena/arena_06.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "arena_06",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Arena/arena_07.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "arena_07",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Ritual/ritual_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ritual_01",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Ritual/ritual_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ritual_02",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Ritual/ritual_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ritual_03",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Ritual/ritual_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ritual_04",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Ritual/ritual_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ritual_05w",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Ritual/ritual_06.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ritual_06",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Ritual/ritual_07.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ritual_07",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Gauntlet/gauntlet_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "gauntlet_01",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Gauntlet/gauntlet_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "gauntlet_02",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Gauntlet/gauntlet_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "gauntlet_03",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Gauntlet/gauntlet_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "gauntlet_04",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Gauntlet/gauntlet_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "gauntlet_05",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Gauntlet/gauntlet_06.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "gauntlet_06",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Gauntlet/gauntlet_07.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "gauntlet_07",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Lair/lair_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lair_01",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Lair/lair_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lair_02",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Lair/lair_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lair_03",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Lair/lair_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lair_04",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Lair/lair_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lair_05",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Lair/lair_06.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lair_06",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Lair/lair_07.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lair_07",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Explore/explore_01.arm",
+      "prefix": null,
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": "explore_01",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Explore/explore_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "explore_02",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Explore/explore_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "explore_03",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Explore/explore_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "explore_04",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Explore/explore_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "explore_05",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Explore/explore_06.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "explore_06",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Explore/explore_07.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "explore_07",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Escape/escape_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "escape_01",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Escape/escape_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "escape_02",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Escape/escape_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "escape_03",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Escape/escape_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "escape_04",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Escape/escape_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "escape_05",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Escape/escape_06.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "escape_06",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Escape/escape_07.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "escape_07",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/reward_generic.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "reward_generic",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_chest_bronze.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_chest_bronze",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_chest_gold.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_chest_gold",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_chest_silver.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_chest_silver",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_key_bronze.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_key_bronze",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_key_gold.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_key_gold",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_key_silver.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_key_silver",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_legend_boon.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_legend_boon",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_legend_curse.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_legend_curse",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_legend_honor.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_legend_honor",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_legend_pledge.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_legend_pledge",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_legend_random.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_legend_random",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_legend_water.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_legend_water",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_merchant.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_merchant",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_water_major.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_water_major",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Sanctum/Level_1/Rooms/Treasure/treasure_water_minor.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "treasure_water_minor",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    2,
+    2
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/pedestal_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pedastal",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/pedestal_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/pedestal_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pedastal_small",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/pedestal_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Blank_01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/CavePath/Blank_01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Forced_Blank_01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forced_blank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/CavePath/Blank_01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Feature/exit_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "exit",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Transitions/Level1ToLevel2.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Feature/arena_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "arena",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/arena_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Feature/bridge_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "bridge",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/bridge_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Feature/RoomSelector.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "room_selector",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Transitions/Level1ToLevel2.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Feature/RoomSelector_large.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "room_selector",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Transitions/Level1Doors.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Fills/BuriedCityFill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "feature_fill_03",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCityFill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Fills/BuriedCityFill_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "feature_fill_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCityFill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Fills/BuriedCityFill_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "feature_fill_02",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCityFill_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Fills/BuriedCityFill_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "feature_fill_02",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCityFill_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Fills/BuriedCityFill_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "feature_fill_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCityFill_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Fills/BuriedCityFill_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "feature_fill_03",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCityFill_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Fills/1x1_BuriedCityFill_07.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "feature_fill_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/1x1_BuriedCityFill_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Fills/1x1_BuriedCityFill_08.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "feature_fill_02",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/1x1_BuriedCityFill_08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_static.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "static",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cv_static.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "static",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cc_01a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cc_01b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cv_01a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cv_01b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cv_02a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Cv_02b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_EntranceArch_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "entrance",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_EntranceArch_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Overlay_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Overlay_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Overlay_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Overlay_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Overlay_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Overlay_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_01a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_01b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_02a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_02b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_03a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_03b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_04a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_St_04b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_St_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/CavePillar_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/CavePillar_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Feature_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "feature",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Feature_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_Treasure_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Treasure",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_Treasure_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/BuriedCity_TreasureEntrance_01.tdt",
+      "prefix": null,
+      "suffix": [
+        "R270",
+        "FI"
+      ],
+      "tile_tag": "TreasureEntrance",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/BuriedCity_TreasureEntrance_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Abyss/1x1_Abyss_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Abyss_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Abyss/1x1_Abyss_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Abyss_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Abyss/1x1_Abyss_Fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Abyss/1x1_Abyss_Fill_01_Blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "abyss_blank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/Abyss/1x1_Abyss_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Abyss_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/AbyssFill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/AbyssFill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/AbyssLow_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/AbyssLow_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/AbyssLow_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/AbyssLow_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/AbyssLow_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/AbyssLow_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/AbyssLow_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/AbyssLow_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_Cv_MM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_Cv_MM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_Cv_MM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_Cv_MM_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_Cv_MS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_Cv_MS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_Cv_MS_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_Cv_MS_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_Cv_MW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_Cv_MW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_Cv_MW_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_Cv_MW_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_St_MM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_St_MM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_St_MS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_St_MS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_St_MW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_St_MW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_X_MM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_X_MM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_X_MS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_X_MS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_X_MW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_X_MW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_X_SS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_X_SS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_X_WS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_X_WS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_AbyssLow_X_WW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_AbyssLow_X_WW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/KethAscendancy/Level_1/BuriedCity/Wall_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_1/Wall_St_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

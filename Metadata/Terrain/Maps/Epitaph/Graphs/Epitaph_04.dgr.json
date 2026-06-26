@@ -1,0 +1,1834 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Maps/Epitaph/master.tsi"
+  },
+  "edge_count": 10,
+  "edge_types": {
+    "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et": {
+      "id": "TombsThickWall",
+      "color": null
+    },
+    "Metadata/Terrain/Tools/void.et": {
+      "id": "void",
+      "color": "#FF141414"
+    },
+    "Metadata/Terrain/Dungeon/rooms.et": {
+      "id": "rooms",
+      "color": "#FF5A5A5A"
+    }
+  },
+  "edges": [
+    {
+      "from_": 1,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+      "color": null
+    },
+    {
+      "from_": 2,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+        0,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+      "color": null
+    },
+    {
+      "from_": 3,
+      "to": 4,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+        0,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+      "color": null
+    },
+    {
+      "from_": 4,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+        0,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+      "color": null
+    },
+    {
+      "from_": 5,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/tombs_thick_wall.et",
+      "color": null
+    },
+    {
+      "from_": 8,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 6,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 0,
+      "to": 9,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        100,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 1,
+      "to": 9,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        100,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 6,
+      "to": 11,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Manor/Interior/Floor/Blank_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Manor/Blank_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "TombsAbyss",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Fill_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Abyss_Fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Fill_03.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Abyss_Fill_03.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": "overlays.toy",
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 12,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [
+        7
+      ],
+      "room": "entrance",
+      "strings": [
+        "default"
+      ],
+      "transform": "R90",
+      "unknown": [
+        100,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 219,
+      "y": 35
+    },
+    {
+      "numbers": [
+        8,
+        0,
+        4
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 104
+    },
+    {
+      "numbers": [
+        1,
+        0
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 104
+    },
+    {
+      "numbers": [
+        1,
+        2
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 196
+    },
+    {
+      "numbers": [
+        3,
+        2
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 196
+    },
+    {
+      "numbers": [
+        4,
+        3
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 104
+    },
+    {
+      "numbers": [
+        9,
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 150,
+      "y": 81
+    },
+    {
+      "numbers": [
+        5
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 173,
+      "y": 219
+    },
+    {
+      "numbers": [
+        6,
+        5
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 173,
+      "y": 127
+    },
+    {
+      "numbers": [
+        7,
+        8
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 35
+    },
+    {
+      "numbers": [],
+      "room": "map_boss",
+      "strings": [],
+      "transform": "R180",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 127
+    },
+    {
+      "numbers": [
+        9
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 219,
+      "y": 81
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/Unique/boss.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "map_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/Unique/no_boss.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "no_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/Unique/forced_rare_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "rare",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/Unique/core_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "special",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/Unique/entrance_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/Unique/mission_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/Unique/mission_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/Unique/mission_3.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/Unique/mission_4.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/1x1/rooms_cnr_1_1.arm",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/1x1/rooms_cnr_1_2.arm",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/1x1/rooms_end_1_1.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/1x1/rooms_end_1_2.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/1x1/rooms_end_1_3.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/1x1/rooms_quad_1_1.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/1x1/rooms_quad_1_2.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/1x1/rooms_st_1_1.arm",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/1x1/rooms_tri_1_1.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/2x2/rooms_open_1.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/2x2/rooms_open_2.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/2x2/rooms_open_3.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/2x2/rooms_open_4.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/abyss_cnr_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/abyss_edge_cc_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/abyss_edge_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/abyss_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/abyss_st_walkway_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "walkway",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/abyss_void.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/thick_cc_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/thick_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/thick_st_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/thick_st_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/thick_tri_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/thick_tri_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Rooms/TombsThick/thick_tri_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    10,
+    10
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Woods/Manor/Interior/Floor/Blank_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Manor/Blank_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Manor/Interior/Features/ForcedBlank_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Manor/Blank_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Transitions/Transition_Mausoleum_to_Graveyard_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "mausoleum_to_graveyard",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/AreaTransitions/mausoleum_to_graveyard_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/BitterAltarSon2_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "thickwall_feature_nolight",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/BitterAltarSon2_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/BitterAltarSon2_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "BitterAltar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/BitterAltarSon2_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/Mausoleum_Crossroad_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "mausoleum_crossing",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Features/Crossroad_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/Mausoleum_FeatureTomb_ThinwallNoLight_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "thinwall_st_nolight_feature",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Features/Unique01NoLight_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/Mausoleum_Pillar_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_v1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Pillars/Pillar_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/Mausoleum_Pillar_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_v3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Pillars/Pillar_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/Mausoleum_Unique03_01.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Unique03_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/Mausoleum_Unique03_02.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Unique03_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/Mausoleum_Unique03_03.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Unique03_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/Mausoleum_Unique03_04.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Unique03_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Feature/TombBoss_ArenaFloor.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Metadata/Terrain/Woods/GraveyardDungeons/Feature/TombBoss_ArenaFloor.tdt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Woods/GraveyardDungeons/Feature/TombBoss_ArenaFloor.tdt",
+        "tile_parent": null,
+        "tile_tag": "tomb_arena",
+        "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/Features/TombBoss.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cc_02_Feature.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forced_02",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Woods/GraveyardDungeons/Ledges/Ledge_Cc_02.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cc_02.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cc_Stair_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cc_Stair_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cc_Thick_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cc_Thick_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cc_Thin_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cc_Thin_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cc_Thin_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cc_Thin_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cv_02_Feature.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forced_02",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Woods/GraveyardDungeons/Ledges/Ledge_Cv_02.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cv_02.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cv_Stair_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cv_Stair_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cv_Thin_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cv_Thin_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_Cv_Thin_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_Cv_Thin_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_03_Feature.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forced_03",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Woods/GraveyardDungeons/Ledges/Ledge_St_03.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_03.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Stair_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_Stair_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Stair_Single_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/Ledge/Ledge_St_Stair_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Stair_Single_01_door.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/Ledge/Ledge_St_Stair_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Thick_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_Thick_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Thick_Cv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_Thick_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Thick_Cv_Thin_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_Thick_Cv_Thin_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Thick_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_Thick_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Thin_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_Thin_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Thin_End_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_Thin_End_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Ledges/Ledge_St_Thin_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Ledge/Ledge_St_Thin_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Stairs/Stairs_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Stairs/Stairs_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Stairs/Stairs_Cc_Thick_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Stairs/Stairs_Cc_Thick_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Stairs/Stairs_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Stairs/Stairs_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Stairs/Stairs_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Stairs/Stairs_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Stairs/Stairs_St_Thick_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Stairs/Stairs_St_Thick_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Stairs/Stairs_St_Thin_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Stairs/Stairs_St_Thin_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Stairs/Stairs_St_Thin_Cv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/Stairs/Stairs_St_Thin_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Mausoleum_ThickLight_Cv_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "brazier_fire",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/Mausoleum_ThickLight_Cv_04.tdt",
+        "tile_parent": null,
+        "tile_tag": "brazier_candles",
+        "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThickWall/ThickLight_Cv_04.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Mausoleum_ThickLight_St_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "brazier_lit",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Woods/GraveyardDungeons/ThickWall/Mausoleum_ThickLight_St_04.tdt",
+        "tile_parent": null,
+        "tile_tag": "brazier",
+        "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThickWall/ThickLight_St_04.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_Cv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_Cv_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_Cv_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_St_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_St_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_St_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickWall/Tomb_Thick_St_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Tombs/ThickWall/Thick_St_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickThin/Thick_Cc_Thick_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThickThin/Thick_Cc_Thick_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickThin/Thick_Cv_Thin_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThickThin/Thick_Cv_Thin_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickThin/Thick_Cv_Thin_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThickThin/Thick_Cv_Thin_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickThin/Thick_St_Thin_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThickThin/Thick_St_Thin_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThickThin/Thick_St_Thin_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThickThin/Thick_St_Thin_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_Door_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_Door_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_End_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_End_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_St_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_T_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_T_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_T_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_T_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/ThinWall/Thin_X_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Mausoleum/ThinWall/Thin_X_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Fill_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Abyss_Fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Fill_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Epitaph/Abyss_Fill_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Crypt/Abyss/Abyss_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_v3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Crypt/Abyss/Abyss_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Crypt/Abyss/Abyss_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_Cv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_v3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Crypt/Abyss/Abyss_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Crypt/Abyss/Abyss_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Epitaph/Tiles/Abyss/Abyss_St_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_v3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/GraveyardDungeons/Crypt/Abyss/Abyss_St_03.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

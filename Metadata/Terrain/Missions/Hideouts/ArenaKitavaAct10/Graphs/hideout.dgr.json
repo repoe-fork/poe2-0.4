@@ -1,0 +1,411 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Missions/Hideouts/ArenaKitavaAct10/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "111"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_tree.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_tree2.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_tree3.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_wagon.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_sentry.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_bails.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_bails2.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_crows1.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_crows2.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Act10/Area6/Rooms/Fill/fill_crows3.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/black.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/IncaDungeon/dungeon_blackness_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "OriathWater",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Canal/CanalFillBlood_v01_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/NarrowCanals/CanalFillBlood_v01_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": "Blood",
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": "Metadata/Terrain/edge_points.edp",
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hideout",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 11,
+      "y": 9
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaKitavaAct10/Rooms/hideout.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    3,
+    3
+  ],
+  "strings": [
+    "",
+    "",
+    "Metadata/Terrain/Act5/Area3/GroundTypes/deep_snow.gt"
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaKitavaAct10/Tiles/act10_kitava_arena_v01_01.tdt",
+      "prefix": null,
+      "suffix": [
+        "I"
+      ],
+      "tile_tag": "platform",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act10/Ravenous_Hideout/act10_kitava_arena_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Rosettes/chitus_rosette_defaced_v03_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "rosette",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/ChitusTiles/chitus_rosette_defaced_v03_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Rosettes/chitus_rosette_defaced_v03_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "rosette",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/ChitusTiles/chitus_rosette_defaced_v03_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Rosettes/chitus_rosette_defaced_v03_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "rosette",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/ChitusTiles/chitus_rosette_defaced_v03_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Rosettes/chitus_rosette_defaced_v03_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "rosette",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/ChitusTiles/chitus_rosette_defaced_v03_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Canal/CanalBuilding_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/CanalBuilding_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Canal/building_canal_concave_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/CanalBuilding_v04_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Canal/CanalNarrow_Straight_v01_01_SPECIAL.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "SPECIAL",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/NarrowCanals/CanalNarrow_Straight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Canal/CanalNarrow_Straight_to_Venice_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/NarrowCanals/CanalNarrow_Straight_to_Venice_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/venice_concave_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/venice_concave_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/venice_ruined_concave_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/RuinedTiles/RuinedOriath_concave_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/venice_convex_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/venice_convex_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/venice_ruined_convex_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/RuinedTiles/RuinedOriath_convex_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/venice_straight_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/venice_straight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/venice_ruined_straight_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Act5/OriathSquare/RuinedTiles/RuinedOriath_Straight_v01_02.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 19,
+  "subgraphs": null,
+  "file_groups": null
+}

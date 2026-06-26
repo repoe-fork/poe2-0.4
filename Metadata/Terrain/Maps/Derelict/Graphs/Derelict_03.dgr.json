@@ -1,0 +1,114 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Maps/Derelict/master_container.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": null,
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": null,
+    "MaterialsList": null,
+    "OuterGroundType": "Metadata/Terrain/Maps/Derelict/Tiles/ExteriorWall/OuterGround.gt",
+    "Reskin": null,
+    "RoomSet": null,
+    "TileSet": null,
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 2,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/Maps/Derelict/Graphs/_Downstairs_03.dgr",
+        "30",
+        "30"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    },
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/Maps/Derelict/Graphs/_Upstairs_03.dgr",
+        "26",
+        "26"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 725
+    }
+  ],
+  "room_set": null,
+  "size": [
+    30,
+    57
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": null,
+  "version": 25,
+  "subgraphs": {
+    "Metadata/Terrain/Maps/Derelict/Graphs/_Downstairs_03.dgr": [
+      "Metadata/Terrain/Maps/Derelict/Graphs/_Downstairs_03.dgr"
+    ],
+    "Metadata/Terrain/Maps/Derelict/Graphs/_Upstairs_03.dgr": [
+      "Metadata/Terrain/Maps/Derelict/Graphs/_Upstairs_03.dgr"
+    ]
+  },
+  "file_groups": null
+}

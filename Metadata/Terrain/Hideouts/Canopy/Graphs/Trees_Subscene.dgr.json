@@ -1,0 +1,270 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Hideouts/Canopy/subscene_master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/canopyblank.tdt",
+      "prefix": [
+        "12"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/canopyblank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "WoodsCliff",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Canopy/Tiles/Fill_01.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Canopy/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Canopy/Tiles/Fill_02.tdt",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Canopy/Fill_02.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "subscene_random_fill_tiles.gft",
+    "MaterialsList": "subscene_materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Woods/Canopy/Abyss/canopy_abyss.gt",
+    "Reskin": null,
+    "RoomSet": "subscene_generate.rs",
+    "TileSet": "subscene_tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": "decals.dct",
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "subscene",
+      "strings": [
+        "telepad3",
+        "teleport4-MapStairAlternativeLadder"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/Canopy/Rooms/Subscene_bottom.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "subscene",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    19,
+    19
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/canopyblank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/canopyblank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/canopyblank_1.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/canopyblank_1.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/canopyblank_2.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/canopyblank_2.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/canopyforcedblank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/canopyblank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Canopy/Tiles/hideout_lower_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "HideoutLower",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Canopy/hideout_lower_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/Abyss/Bottom_Fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Bottom_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/Abyss/Bottom_Fill_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Bottom_Fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/Abyss/Bottom_Fill_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Bottom_Fill_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/Abyss/Bottom_Fill_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Bottom_Fill_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/Abyss/Bottom_Fill_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Bottom_Fill_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/Abyss/Bottom_Fill_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Bottom_Fill_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Canopy/Abyss/Bottom_Fill_07.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Canopy/Abyss/Bottom_Fill_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Canopy/Tiles/Fill_feature_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "featurefill1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Cliff/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Canopy/Tiles/Fill_feature_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "featurefill1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Cliff/Fill_02.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

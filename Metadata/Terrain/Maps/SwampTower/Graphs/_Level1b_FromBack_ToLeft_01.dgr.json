@@ -1,0 +1,1730 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Maps/SwampTower/master_mid.tsi"
+  },
+  "edge_count": 16,
+  "edge_types": {
+    "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_straight.et": {
+      "id": "RoomsOuterSt",
+      "color": "#ffff0000"
+    },
+    "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X1.et": {
+      "id": "RoomsOuterX1",
+      "color": "#FFA0A0"
+    },
+    "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y2.et": {
+      "id": "RoomsOuterY2",
+      "color": "#A0FFFF"
+    },
+    "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X3.et": {
+      "id": "RoomsOuterX3",
+      "color": "#FFFFA0"
+    },
+    "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X5.et": {
+      "id": "RoomsOuterX5",
+      "color": "#A0FFA0"
+    },
+    "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y5.et": {
+      "id": "RoomsOuterY5",
+      "color": "#A0A0FF"
+    },
+    "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_but_not_rooms.et": {
+      "id": "ClearlyNotRooms",
+      "color": "#ffffffff"
+    }
+  },
+  "edges": [
+    {
+      "from_": 1,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_straight.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_straight.et",
+      "color": "#ffff0000"
+    },
+    {
+      "from_": 5,
+      "to": 6,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X1.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X1.et",
+      "color": "#FFA0A0"
+    },
+    {
+      "from_": 12,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X1.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X1.et",
+      "color": "#FFA0A0"
+    },
+    {
+      "from_": 6,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y2.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y2.et",
+      "color": "#A0FFFF"
+    },
+    {
+      "from_": 11,
+      "to": 12,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y2.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y2.et",
+      "color": "#A0FFFF"
+    },
+    {
+      "from_": 9,
+      "to": 11,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X3.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X3.et",
+      "color": "#FFFFA0"
+    },
+    {
+      "from_": 2,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X3.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X3.et",
+      "color": "#FFFFA0"
+    },
+    {
+      "from_": 13,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X5.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X5.et",
+      "color": "#A0FFA0"
+    },
+    {
+      "from_": 10,
+      "to": 13,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X5.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X5.et",
+      "color": "#A0FFA0"
+    },
+    {
+      "from_": 8,
+      "to": 13,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y5.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y5.et",
+      "color": "#A0A0FF"
+    },
+    {
+      "from_": 13,
+      "to": 9,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y5.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y5.et",
+      "color": "#A0A0FF"
+    },
+    {
+      "from_": 4,
+      "to": 0,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y2.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y2.et",
+      "color": "#A0FFFF"
+    },
+    {
+      "from_": 0,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y2.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_Y2.et",
+      "color": "#A0FFFF"
+    },
+    {
+      "from_": 7,
+      "to": 4,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X1.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X1.et",
+      "color": "#FFA0A0"
+    },
+    {
+      "from_": 3,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X1.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_outer_angle_X1.et",
+      "color": "#FFA0A0"
+    },
+    {
+      "from_": 14,
+      "to": 0,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_but_not_rooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/SwampTower/Graphs/rooms_but_not_rooms.et",
+      "color": "#ffffffff"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/SwampTower_Fill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_Fill.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/black.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/IncaDungeon/dungeon_blackness_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "SwampTowerOuterVoid",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_LOD01_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_LOD01_01.tgt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_01.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_01.tgt"
+      }
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles_mid.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate_mid.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": "overlays.toy",
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 26,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [
+        15,
+        11,
+        12
+      ],
+      "room": "stairs_down",
+      "strings": [
+        "teleport2",
+        "telepad1"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 127
+    },
+    {
+      "numbers": [
+        0,
+        2
+      ],
+      "room": "stairs_up",
+      "strings": [
+        "teleport3",
+        "telepad4"
+      ],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 35
+    },
+    {
+      "numbers": [
+        3,
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 58
+    },
+    {
+      "numbers": [
+        14,
+        12
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 127
+    },
+    {
+      "numbers": [
+        13,
+        11
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 127
+    },
+    {
+      "numbers": [
+        1,
+        0
+      ],
+      "room": "corner",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 35
+    },
+    {
+      "numbers": [
+        1,
+        3
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 58
+    },
+    {
+      "numbers": [
+        7,
+        13
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 104
+    },
+    {
+      "numbers": [
+        9,
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 81
+    },
+    {
+      "numbers": [
+        5,
+        10
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 81
+    },
+    {
+      "numbers": [
+        8,
+        14
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 104
+    },
+    {
+      "numbers": [
+        5,
+        4
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 58
+    },
+    {
+      "numbers": [
+        2,
+        4
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 58
+    },
+    {
+      "numbers": [
+        9,
+        7,
+        8,
+        10
+      ],
+      "room": "mid_centre",
+      "strings": [],
+      "transform": "R180",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 58
+    },
+    {
+      "numbers": [
+        15
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 104
+    },
+    {
+      "numbers": [],
+      "room": "ruin_b",
+      "strings": [],
+      "transform": "FR180",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 58
+    },
+    {
+      "numbers": [],
+      "room": "ruin_b",
+      "strings": [],
+      "transform": "R180",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 104
+    },
+    {
+      "numbers": [],
+      "room": "ruin_b",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 150
+    },
+    {
+      "numbers": [],
+      "room": "ruin_b",
+      "strings": [],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 104
+    },
+    {
+      "numbers": [],
+      "room": "ruin_b",
+      "strings": [],
+      "transform": "R270",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 219
+    },
+    {
+      "numbers": [],
+      "room": "ruin_b",
+      "strings": [],
+      "transform": "R90",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 219
+    },
+    {
+      "numbers": [],
+      "room": "ruin_a",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 150
+    },
+    {
+      "numbers": [],
+      "room": "ruin_a",
+      "strings": [],
+      "transform": "R90",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 150
+    },
+    {
+      "numbers": [],
+      "room": "ruin_a",
+      "strings": [],
+      "transform": "R180",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 196
+    },
+    {
+      "numbers": [],
+      "room": "ruin_a",
+      "strings": [],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 196,
+      "y": 104
+    },
+    {
+      "numbers": [],
+      "room": "ruin_a",
+      "strings": [],
+      "transform": "FR180",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/apex.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "apex",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/entrance.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/ground_centre_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ground_centre",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/mid_centre_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mid_centre",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/mission_02_1.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/mission_02_2.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/open_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/swamp_fill.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/swamp_ruin_a.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ruin_a",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/swamp_ruin_b.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "ruin_b",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/void_fill.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/corner_01.arm",
+      "prefix": [
+        "7"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "corner",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/landmark_corruption_device_01.arm",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "corner",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/corner_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "corner",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/corner_stairs_down_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "stairs_down",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/corner_stairs_down_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "stairs_down",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/corner_stairs_up_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "stairs_up",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/corner_stairs_up_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "stairs_up",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/side_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/side_02_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/side_02_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/side_04_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/side_04_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/side_05_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/side_05_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/side_06_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Outer/side_06_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    11,
+    11
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/CentrePillar_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/CentrePillar_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/CentrePillar_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_stairs",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/CentrePillar_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/SwampTower_ForcedBlank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_Fill.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Apex/SwampTowerApex.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "apex",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTowerApex.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_LOD01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_LOD01_01.tgt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_01.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_LOD01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_LOD01_02.tgt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_02.tdt",
+        "tile_parent": null,
+        "tile_tag": "small",
+        "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_02.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_A_LOD01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_A_LOD01_01.tgt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_A_01.tdt",
+        "tile_parent": null,
+        "tile_tag": "ruin",
+        "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_A_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_B_LOD01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_B_LOD01_01.tgt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_B_01.tdt",
+        "tile_parent": null,
+        "tile_tag": "ruin",
+        "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_B_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_C_LOD01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_C_LOD01_01.tgt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_C_01.tdt",
+        "tile_parent": null,
+        "tile_tag": "ruin",
+        "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_C_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_D_LOD01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_D_LOD01_01.tgt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Swamp/SwampTower_WaterFill_D_01.tdt",
+        "tile_parent": null,
+        "tile_tag": "ruin",
+        "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_D_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/Ziggurat/InteriorWalls/dungeon_ThinEndCap_v06_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Ziggurat/dungeon_ThinEndCap_v06_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/Ziggurat/InteriorWalls/dungeon_ThinEndCap_v07_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Ziggurat/dungeon_ThinEndCap_v07_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWall_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWall_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWall_End_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWall_End_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWall_EndStairsUp_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "StairsUp",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWall_EndStairsUp_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWall_EndStairsUp_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "StairsUp",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWall_EndStairsUp_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWallAngle_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWallAngle_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWallAngle_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWallAngle_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWallAngle_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWallAngle_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWallSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWallSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWallSt_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWallSt_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Lower_Exterior/SwampTower_BasementOuterWallStThinwall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_BasementOuterWallStThinwall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallAngle_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallAngle_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallAngle_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallAngle_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallAngle_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallAngle_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallEnd_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallEnd_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallEnd_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallEnd_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallEnd_StairsDown_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "StairsDown",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallEnd_StairsDown_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallEnd_StairsDown_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "StairsDown",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallEnd_StairsDown_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallEnd_StairsUp_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "StairsUp",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallEnd_StairsUp_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallEnd_StairsUp_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "StairsUp",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallEnd_StairsUp_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallSt_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallSt_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/Mid_Exterior/SwampTower_OuterWallStThinwall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_OuterWallStThinwall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextFeatures/VaalCorruptionAltar.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "corruption_altar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/VaalCorruptionAltar.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

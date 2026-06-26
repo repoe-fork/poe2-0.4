@@ -1,0 +1,2928 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Maps/Canyon/master.tsi"
+  },
+  "edge_count": 18,
+  "edge_types": {
+    "Metadata/Terrain/Gallows/Act4_Interlude/Part2/P2_5/Rooms/Canyon/CanyonRooms.et": {
+      "id": "CanyonRooms",
+      "color": "#ffffac88"
+    },
+    "Metadata/Terrain/Tools/void.et": {
+      "id": "void",
+      "color": "#FF141414"
+    },
+    "Metadata/Terrain/Interlude/Part2/Gates/gate_cliffborder.et": {
+      "id": "GateCliffBorder",
+      "color": "#2272fc"
+    },
+    "Metadata/Terrain/Dungeon/rooms.et": {
+      "id": "rooms",
+      "color": "#FF5A5A5A"
+    }
+  },
+  "edges": [
+    {
+      "from_": 0,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Gallows/Act4_Interlude/Part2/P2_5/Rooms/Canyon/CanyonRooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Gallows/Act4_Interlude/Part2/P2_5/Rooms/Canyon/CanyonRooms.et",
+      "color": "#ffffac88"
+    },
+    {
+      "from_": 24,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 21,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 5,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Interlude/Part2/Gates/gate_cliffborder.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Interlude/Part2/Gates/gate_cliffborder.et",
+      "color": "#2272fc"
+    },
+    {
+      "from_": 0,
+      "to": 11,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        2,
+        "Metadata/Terrain/Gallows/Act4_Interlude/Part2/P2_5/Rooms/MarakethRooms.et",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 4,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Interlude/Part2/Gates/gate_cliffborder.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Interlude/Part2/Gates/gate_cliffborder.et",
+      "color": "#2272fc"
+    },
+    {
+      "from_": 16,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 6,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Gallows/Act4_Interlude/Part2/P2_5/Rooms/Canyon/CanyonRooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Gallows/Act4_Interlude/Part2/P2_5/Rooms/Canyon/CanyonRooms.et",
+      "color": "#ffffac88"
+    },
+    {
+      "from_": 14,
+      "to": 12,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "Metadata/Terrain/Gallows/Act4_Interlude/Part2/P2_5/Rooms/MarakethRooms.et",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 12,
+      "to": 13,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 23,
+      "to": 17,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 9,
+      "to": 20,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 6,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Gallows/Act4_Interlude/Part2/P2_5/Rooms/Canyon/CanyonRooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Gallows/Act4_Interlude/Part2/P2_5/Rooms/Canyon/CanyonRooms.et",
+      "color": "#ffffac88"
+    },
+    {
+      "from_": 20,
+      "to": 21,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 19,
+      "to": 23,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 19,
+      "to": 24,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 25,
+      "to": 18,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 22,
+      "to": 12,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank_Roofshadow.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank_Roofshadow.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CavePath/Cavepassage_blacknessNoFog_v01_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/CavePath/Cavepassage_blacknessNoFog_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "CanyonGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/Canyon_fill_3x3.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "MarakethSanctumSand",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Abyss/Sanctum/SandFill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_3/Abyss/SandFill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "UnwalkableBorder",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_03.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_04.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_05.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_05.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": "decals.dct",
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 26,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [
+        4,
+        0
+      ],
+      "room": "passage_start",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 12
+    },
+    {
+      "numbers": [
+        7,
+        6
+      ],
+      "room": "map_boss",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 564
+    },
+    {
+      "numbers": [
+        3
+      ],
+      "room": "end",
+      "strings": [],
+      "transform": "R270",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 288,
+      "y": 81
+    },
+    {
+      "numbers": [
+        5
+      ],
+      "room": "end",
+      "strings": [],
+      "transform": "R90",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 633
+    },
+    {
+      "numbers": [
+        5
+      ],
+      "room": "end",
+      "strings": [],
+      "transform": "FR270",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 288,
+      "y": 633
+    },
+    {
+      "numbers": [
+        3
+      ],
+      "room": "end",
+      "strings": [],
+      "transform": "FR90",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 81
+    },
+    {
+      "numbers": [
+        12,
+        7
+      ],
+      "room": "block_long",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 426
+    },
+    {
+      "numbers": [
+        0,
+        12
+      ],
+      "room": "block_long",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 219
+    },
+    {
+      "numbers": [
+        1
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 334,
+      "y": 426
+    },
+    {
+      "numbers": [
+        11
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 127,
+      "y": 265
+    },
+    {
+      "numbers": [
+        2
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 12,
+      "y": 334
+    },
+    {
+      "numbers": [
+        4
+      ],
+      "room": "hallway",
+      "strings": [],
+      "transform": "R180",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 288,
+      "y": 150
+    },
+    {
+      "numbers": [
+        17,
+        9,
+        8
+      ],
+      "room": "intercept",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 357
+    },
+    {
+      "numbers": [
+        9
+      ],
+      "room": "hallway",
+      "strings": [],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 288,
+      "y": 357
+    },
+    {
+      "numbers": [
+        8
+      ],
+      "room": "hallway",
+      "strings": [],
+      "transform": "FR180",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 357
+    },
+    {
+      "numbers": [],
+      "room": "mid",
+      "strings": [
+        "accessible"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 426
+    },
+    {
+      "numbers": [
+        6
+      ],
+      "room": "hallway",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 564
+    },
+    {
+      "numbers": [
+        10
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 219,
+      "y": 541
+    },
+    {
+      "numbers": [
+        16
+      ],
+      "room": "mid",
+      "strings": [
+        "accessible"
+      ],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 219,
+      "y": 219
+    },
+    {
+      "numbers": [
+        15,
+        14
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 288,
+      "y": 495
+    },
+    {
+      "numbers": [
+        11,
+        13
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 58,
+      "y": 265
+    },
+    {
+      "numbers": [
+        13,
+        2
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 58,
+      "y": 334
+    },
+    {
+      "numbers": [
+        17
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 288
+    },
+    {
+      "numbers": [
+        14,
+        10
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 219,
+      "y": 495
+    },
+    {
+      "numbers": [
+        1,
+        15
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 288,
+      "y": 426
+    },
+    {
+      "numbers": [
+        16
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 219,
+      "y": 426
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Unique/start.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "passage_start",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Unique/end.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "map_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Unique/end_noboss.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "no_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Unique/mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Unique/mission_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Fills/black_fill.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Fills/blank_fill.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Fills/border_fill.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/cliff_cc_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/cliff_cv_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/cliff_st_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/canyon_st_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": [
+        "I",
+        "FI"
+      ],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/canyon_st_02.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": [
+        "I",
+        "FI"
+      ],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/canyon_st_03.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": [
+        "I",
+        "FI"
+      ],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/canyon_st_block_01.arm",
+      "prefix": null,
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": "block",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/canyon_st_block_02.arm",
+      "prefix": null,
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": "block_long",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/canyon_to_rooms_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Canyon/canyon_to_rooms_02.arm",
+      "prefix": null,
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": "intercept",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Dune/border_cv_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Dune/border_st_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Dune/border_cc_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Dune/cliffborder_st_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Dune/cliffborder_st_end_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "end",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Keth/12open_01.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Keth/1open_01.arm",
+      "prefix": [
+        "500"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Keth/1open_02.arm",
+      "prefix": [
+        "//500"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Keth/1open_03.arm",
+      "prefix": [
+        "500"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Keth/hallway_01.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R180",
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "hallway",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Keth/hallway_02.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R180",
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "hallway",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Keth/hallway_03.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R180",
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "hallway",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Middle/Middle_room_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mid",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Middle/Middle_room_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mid",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Middle/Middle_room_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mid",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Middle/Middle_room_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mid",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Canyon/Rooms/Middle/Middle_room_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mid",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    15,
+    33
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank_Roofshadow.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank_Roofshadow.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/Canyon_fill_3x3.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/Canyon_fill_blank_3x3.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CavePath/Cavepassage_blacknessNoFog_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/CavePath/Cavepassage_blacknessNoFog_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorderFill_01.tdt",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_St_Door_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_St_Door_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/GatesSubcanyonTracks_Long_1.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "track",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/GatesSubcanyonTracks_Long_1.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/GatesSubcanyonTracks_Short_1.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "track",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/GatesSubcanyonTracks_Short_1.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/Gatewall_LowerGate_Closed.tdt",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": "lower_gate",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/Gatewall_LowerGate_Closed.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_Door_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_Door_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_wall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_wall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorderOuter_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/Gates/Subcanyon/CliffBorderOuter_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/Gatewall_LowerGate_closed_straight.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "gate_straight",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/Gatewall_LowerGate_closed_straight.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/Gatewall_LowerGate_Closed_02.tdt",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "R90",
+        "R180",
+        "R270"
+      ],
+      "tile_tag": "Gate_Arena",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/Gatewall_LowerGate_Closed_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorderOuter_cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/Gates/Subcanyon/CliffBorderOuter_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorderOuter_cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/Gates/Subcanyon/CliffBorderOuter_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/AreaTransitions/GatesEnd_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "boss_arena",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SevenWaters/Feature/GatesEnd_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CcMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CcMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CcSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CcSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CcSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CcSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CcSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CcSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CcWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CcWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CvMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CvMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CvSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CvSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CvSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CcSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CvSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CvSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/CvWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/CvWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/fill_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/fill_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/StMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/StMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/StSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/StSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/StSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/StSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/StSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/StSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/StWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/StWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/XMMMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/XMMMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/UnwalkableBorder/Dunes/XMMMM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "impassabledune",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/UnwalkableBorder/Dunes/XMMMM_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/GatePassageInterior/docktile.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/KethAscendancy/Level_3/Abyss/AbysswallSand_St_01.tgt;Art/Models/Terrain/Desert/KethAscendancy/Level_3/Abyss/LedgeSand_Cc_02.tgt;Art/Models/Terrain/Desert/KethAscendancy/Level_3/Abyss/SandFill_01.tgt;Art/Models/Terrain/Desert/KethAscendancy/Level_3/Abyss/LedgeSand_Stairs_01.tgt;Art/Models/Terrain/Desert/KethAscendancy/Level_3/Abyss/LedgeSand_Abysswall_CvCv_02.tgt;Art/Models/Terrain/Desert/KethAscendancy/Level_3/Abyss/LedgeSand_Abysswall_CvCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Sand/Abyss_Pillar_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Sand/Abyss_Pillar_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Sand/Abyss_Pillar_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Sand/Abyss_Pillar_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Sand/Abyss_PillarLight_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillarlight",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Sand/Abyss_PillarLight_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Pillar_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Pillar_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Pillar_fixed_cap_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Pillar_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Pillar_fixed_cap_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_02",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Pillar_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Pillar_fixed_cap_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_03",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Pillar_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Pillar_fixed_cap_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar_04",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Pillar_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Sarcophagus_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "chest",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Chests/KethSarcophagusChests/01/Sarcophagus_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Sarcophagus_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "chest",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Chests/KethSarcophagusChests/02/Sarcophagus_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Sarcophagus_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "chest",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Chests/KethSarcophagusChests/03/Sarcophagus_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Sarcophagus_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "chest",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Chests/KethSarcophagusChests/04/Sarcophagus_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Sarcophagus_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "chest",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Chests/KethSarcophagusChests/05/Sarcophagus_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Sarcophagus_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "chest",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Chests/KethSarcophagusChests/06/Sarcophagus_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thinwall_End_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "thinwall_diag_end",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThinWall/Thinwall_End_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_BossTransition_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "bosstransition",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_BossTransition_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Pillar_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Pillar_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Pillar_Bend_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Pillar_Bend_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_StairsUp_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "StairsUp",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_StairsUp_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Thinwall_Diagonal_Part_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "diagthinwall_1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Thinwall_Diagonal_Part_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Thinwall_Diagonal_Part_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "diagthinwall_2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Thinwall_Diagonal_Part_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Thinwall_Diagonal_Part_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "diagthinwall_3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Thinwall_Diagonal_Part_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Thinwall_Diagonal_Part_03_nolight.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "diagthinwall_3_nolight",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Thinwall_Diagonal_Part_03_nolight.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Stairs_Cc_ThinwallDiagonal_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ThinwallDiagonalStairs",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Stairs_Cc_ThinwallDiagonal_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Stairs/Stairs_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Stairs/Stairs_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Stairs/Stairs_Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "diagonal",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Stairs/Stairs_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Stairs/Stairs_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Stairs/Stairs_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Stairs/Stairs_Cv_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "diagonal",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Stairs/Stairs_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Stairs/Stairs_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Stairs/Stairs_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Stairs/Stairs_ThickWall_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Stairs/Stairs_ThickWall_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Cc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "diagonal",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Cv_02.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "diagonal",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Cv_03_spawner.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": "diagonal",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Cv_03_spawner.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Cv_03_forced_spawner.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": "forced_spawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Cv_03_spawner.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_St_13_spawner_forced.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": "forced_spawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_St_13_spawner.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Cv_02_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "diagonal_nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Cv_03_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "diagonal_nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Cv_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_11.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_11.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_12.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_12.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_13.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_13.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_14.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_14.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_15.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_15.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_16.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_16.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_17.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_17.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_St_12_spawner.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_St_12_spawner.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_St_13_spawner.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_St_13_spawner.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_11_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_11.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_12_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_12.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_13_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_13.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_14_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_14.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_15_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_15.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_16_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_16.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_St_17_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_St_17.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Thinwall_CvCr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Thinwall_CvCr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Thinwall_CvSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Thinwall_CvSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Thinwall_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Thinwall_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_FakeDoor_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_FakeDoor_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Large_Cc_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Large_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Large_Cc_02_spawner.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Large_Cc_02_spawner.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Large_Cc_01_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Large_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Large_Cc_02_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Large_Cc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Large_Cv_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Large_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Large_Cv_02_spawner.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Large_Cv_02_spawner.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Large_Cv_01_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Large_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Large_Cv_02_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Large_Cv_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Large_Bend_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Large_Bend_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thickwall_Large_Bend_02_spawner.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Features/Thickwall_Large_Bend_02_spawner.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Large_Bend_01_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Large_Bend_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThickWall/Thickwall_Large_Bend_02_nospawner.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "nospawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThickWall/Thickwall_Large_Bend_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThinWall/Thinwall_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThinWall/Thinwall_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThinWall/Thinwall_Door_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThinWall/Thinwall_Door_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Features/Thinwall_Door_02_forced.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door_nolight",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThinWall/Thinwall_Door_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThinWall/Thinwall_Door_Wide_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThinWall/Thinwall_Door_Wide_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThinWall/Thinwall_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThinWall/Thinwall_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThinWall/Thinwall_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThinWall/Thinwall_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThinWall/Thinwall_Tri_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThinWall/Thinwall_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/ThinWall/Thinwall_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/ThinWall/Thinwall_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/GatePassageInterior/dockentrance_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "dock_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/dockentrance_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/GatePassageInterior/dockentrance_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "dock_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/dockentrance_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/GatePassageInterior/dockentrance_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "dock_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/dockentrance_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_DockDoor_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "gate",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_DockDoor_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_DockDoor_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "gate",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_DockDoor_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_DockDoorClosed_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "gate_closed",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_DockDoorClosed_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/CliffBorder_DockDoorClosed_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "gate_closed",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/Gates/CliffBorder_DockDoorClosed_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Floor/Floor_Medallion_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Floor/Floor_Medallion_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Floor/Floor_Medallion_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Floor/Floor_Medallion_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/Maraketh/Floor/Floor_Medallion_Small_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "medallion",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/MarakethRuin/Floor/Floor_Medallion_Small_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part2/Gates/storage_dock_door_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "storage_dock_door_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part2/MarakethArchive/Thickwall/storage_dock_door.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

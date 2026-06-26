@@ -1,0 +1,292 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/CharacterSelection/GallowsAreas/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": null,
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": null,
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": null,
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": "1_0_login3",
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 7,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "login",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 12,
+      "y": 58
+    },
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act1.dgr",
+        "6",
+        "8"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 219,
+      "y": 288
+    },
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act2.dgr",
+        "9",
+        "5"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 219,
+      "y": 58
+    },
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act3.dgr",
+        "6",
+        "8"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 219,
+      "y": 794
+    },
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act4.dgr",
+        "6",
+        "8"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 219,
+      "y": 1415
+    },
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act5.dgr",
+        "6",
+        "8"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 219,
+      "y": 1967
+    },
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act6.dgr",
+        "6",
+        "8"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 219,
+      "y": 2496
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/CharacterSelection/GallowsAreas/Rooms/login_gallows.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "login",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    21,
+    120
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/CharacterSelection/CharacterSelectionGallows/Gallows.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Gallows",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Interface/GallowsCharacterSelection/Gallows.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/CharacterSelection/CharacterSelectionGallows/Forest.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forest",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Interface/GallowsCharacterSelection/Forest.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/CharacterSelection/CharacterSelectionGallows/Desert.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Desert",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Interface/GallowsCharacterSelection/Desert.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/CharacterSelection/CharacterSelectionGallows/Jungle.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Jungle",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Interface/GallowsCharacterSelection/Jungle.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/CharacterSelection/CharacterSelectionGallows/Island.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Island",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Interface/GallowsCharacterSelection/Island.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/CharacterSelection/CharacterSelectionGallows/City.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "City",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Interface/GallowsCharacterSelection/City.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/CharacterSelection/CharacterSelectionGallows/Cataclysm.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Cataclysm",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Interface/GallowsCharacterSelection/Cataclysm.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Features_WideRiver/GallowRiver.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "GallowRiver",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Interface/GallowsCharacterSelection/GallowRiver.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 21,
+  "subgraphs": {
+    "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act1.dgr": [
+      "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act1.dgr"
+    ],
+    "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act2.dgr": [
+      "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act2.dgr"
+    ],
+    "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act3.dgr": [
+      "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act3.dgr"
+    ],
+    "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act4.dgr": [
+      "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act4.dgr"
+    ],
+    "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act5.dgr": [
+      "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act5.dgr"
+    ],
+    "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act6.dgr": [
+      "Metadata/Terrain/CharacterSelection/GallowsAreas/Graphs/_characterselect_act6.dgr"
+    ]
+  },
+  "file_groups": null
+}

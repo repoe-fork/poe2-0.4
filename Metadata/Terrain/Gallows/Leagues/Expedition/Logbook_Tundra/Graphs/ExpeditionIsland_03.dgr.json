@@ -1,0 +1,2288 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/master.tsi"
+  },
+  "edge_count": 19,
+  "edge_types": {
+    "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et": {
+      "id": "IslandShoreLine",
+      "color": "#ff457aff"
+    },
+    "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et": {
+      "id": "IslandUnwalkableLedge",
+      "color": null
+    },
+    "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et": {
+      "id": "IslandUnwalkableCliffOcean",
+      "color": "#ff666596"
+    },
+    "Metadata/Terrain/Tools/void.et": {
+      "id": "void",
+      "color": "#FF141414"
+    }
+  },
+  "edges": [
+    {
+      "from_": 14,
+      "to": 4,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+      "color": "#ff457aff"
+    },
+    {
+      "from_": 7,
+      "to": 0,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 6,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+      "color": "#ff457aff"
+    },
+    {
+      "from_": 5,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 4,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+      "color": "#ff457aff"
+    },
+    {
+      "from_": 0,
+      "to": 6,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 8,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+      "color": "#ff457aff"
+    },
+    {
+      "from_": 3,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 5,
+      "to": 9,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+      "color": "#ff666596"
+    },
+    {
+      "from_": 6,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+      "color": "#ff666596"
+    },
+    {
+      "from_": 9,
+      "to": 11,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+      "color": "#ff666596"
+    },
+    {
+      "from_": 16,
+      "to": 12,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+      "color": "#ff666596"
+    },
+    {
+      "from_": 12,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+      "color": "#ff666596"
+    },
+    {
+      "from_": 1,
+      "to": 13,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+      "color": "#ff457aff"
+    },
+    {
+      "from_": 13,
+      "to": 14,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/island_shore_line.et",
+      "color": "#ff457aff"
+    },
+    {
+      "from_": 11,
+      "to": 15,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+      "color": "#ff666596"
+    },
+    {
+      "from_": 15,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+      "color": "#ff666596"
+    },
+    {
+      "from_": 7,
+      "to": 16,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/island_unwalkable_cliff_ocean.et",
+      "color": "#ff666596"
+    },
+    {
+      "from_": 17,
+      "to": 18,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Common_Exploding_Fills/exploding_fill_01.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Common_Exploding_Fills/exploding_fill_06.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Fills/ice_fill_01.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Fills/ice_fill_02.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Fills/ice_fill_03.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Fills/ice_fill_04.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Fills/ice_fill_05.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/Features/DwellingFill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "dwelling",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/JourneysEnd/DwellingFill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/Features/DwellingFill_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "dwelling",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/JourneysEnd/DwellingFill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/Features/DwellingFill_03.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "dwelling",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/JourneysEnd/DwellingFill_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/Features/DwellingFill_04.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "dwelling04",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/JourneysEnd/DwellingFill_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/Features/DwellingFill_05.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "dwelling05",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/JourneysEnd/DwellingFill_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/Features/DwellingFill_06.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "dwelling06",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/JourneysEnd/DwellingFill_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/Features/DwellingFill_07.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "dwelling07",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/JourneysEnd/DwellingFill_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/Features/DwellingFill_08.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "dwelling08",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/JourneysEnd/DwellingFill_08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/Features/DwellingFill_09.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "dwelling09",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/JourneysEnd/DwellingFill_09.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Crates_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "crates2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Crates_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Debris_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "debris2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Debris_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Crates_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "crates3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Crates_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Debris_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": "debris3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Debris_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/ExplodingFills/Tundra/TundraDestructable_01.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Leagues/Expedition/ExplodingFills/TundraDestructable_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/ExplodingFills/Tundra/TundraDestructable_02.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Leagues/Expedition/ExplodingFills/TundraDestructable_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/ExplodingFills/Tundra/TundraDestructable_03.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Leagues/Expedition/ExplodingFills/TundraDestructable_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/ExplodingFills/Tundra/TundraDestructable_04.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Leagues/Expedition/ExplodingFills/TundraDestructable_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "IslandInnerCliff",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_SmallFill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_SmallFill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_Fill_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Stack_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Stack_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Stack_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Stack_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Ridge_01.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Ridge_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Ridge_02.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Ridge_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Mountain_01.tdt",
+      "prefix": [
+        "400"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Mountain_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Mountain_02.tdt",
+      "prefix": [
+        "400"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Mountain_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Pit_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Pit_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Pit_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Pit_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Crevice_01.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Crevice_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Crevice_02.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Crevice_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Valley_01.tdt",
+      "prefix": [
+        "400"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Valley_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Valley_02.tdt",
+      "prefix": [
+        "400"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Valley_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "IslandOcean",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/Oceanfloor_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/ShoreLine/Oceanfloor_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/JaggedRocks_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": [
+        "R90"
+      ],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/Features/JaggedRocks_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "IslandOceanDeepwater",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/DeepwaterEdge/Oceanfloor_Deepwater_Fill_Small_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/ShoreLine/DeepWater_fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/DeepwaterEdge/Oceanfloor_Deepwater_Fill_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/ShoreLine/DeepWater_fill_02.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Islands/Tiles/Island/island_ocean_deepwater.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": [
+      1
+    ],
+    "EdgePoints": null,
+    "Decals": "decals.dct",
+    "Overlays": "overlays.toy",
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 19,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [
+        1,
+        5
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 58
+    },
+    {
+      "numbers": [
+        2,
+        13
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 127
+    },
+    {
+      "numbers": [],
+      "room": "entrance",
+      "strings": [
+        "default"
+      ],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 58
+    },
+    {
+      "numbers": [
+        7,
+        3
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 58
+    },
+    {
+      "numbers": [
+        0,
+        4
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 127
+    },
+    {
+      "numbers": [
+        3,
+        8,
+        4
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 196,
+      "y": 81
+    },
+    {
+      "numbers": [
+        5,
+        2,
+        9
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 81
+    },
+    {
+      "numbers": [
+        17,
+        6,
+        1
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 35
+    },
+    {
+      "numbers": [
+        16,
+        7,
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 35
+    },
+    {
+      "numbers": [
+        10,
+        8
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 219,
+      "y": 81
+    },
+    {
+      "numbers": [
+        12,
+        9
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 81
+    },
+    {
+      "numbers": [
+        10,
+        15
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 219,
+      "y": 12
+    },
+    {
+      "numbers": [
+        11,
+        12
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    },
+    {
+      "numbers": [
+        14,
+        13
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 104
+    },
+    {
+      "numbers": [
+        0,
+        14
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 104
+    },
+    {
+      "numbers": [
+        15,
+        16
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 12
+    },
+    {
+      "numbers": [
+        17,
+        11
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 12
+    },
+    {
+      "numbers": [
+        18
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 12,
+      "y": 150
+    },
+    {
+      "numbers": [
+        18
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 219,
+      "y": 150
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/entrance_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/water_fill.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/special_fill.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "special",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Shoreline/shoreline_cc_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Shoreline/shoreline_cc_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Shoreline/shoreline_cv_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Shoreline/shoreline_cv_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Shoreline/shoreline_cv_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Shoreline/shoreline_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Shoreline/shoreline_st_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Shoreline/shoreline_st_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Shoreline/shoreline_x_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliffs_cc_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliffs_cv_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliffs_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_cc_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_cc_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_cc_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_cv_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_cv_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_cv_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_st_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_st_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_st_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_to_shoreline_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_to_shoreline_cc_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Cliff/cliff_to_shoreline_cv_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Fills/shipwreck_fill_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Fills/shipwreck_fill_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Rooms/Fills/cliff_fill_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    10,
+    7
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/Ancient_Vaal_Relic_blank_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "AncientVaalRelic",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/Ancient_Vaal_Relic_feature_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "AncientVaalRelic",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/ShoreLine/Oceanfloor_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/ShoreLine/Oceanfloor_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/UnwalkableCliffOcean_CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/UnwalkableCliffOcean_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/UnwalkableCliffOcean_CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/UnwalkableCliffOcean_CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/UnwalkableCliffOcean_StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliffOcean/UnwalkableCliffOcean_StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Crates_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "crates3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Crates_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Crates_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "crates2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Crates_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Crates_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "crates1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Crates_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Debris_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "debris3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Debris_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Debris_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "debris2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Debris_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/KedgeBay/Fills/Beach_Debris_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "debris1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/KedgeBay/Beach_Debris_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/OceanLedge_CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/OceanLedge/OceanLedge_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/OceanLedge_CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/OceanLedge/OceanLedge_CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/OceanLedge_StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/OceanLedge/OceanLedge_StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/OceanLedge_UnwalkableCliffOcean_CvCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/OceanLedge/OceanLedge_UnwalkableCliffOcean_CvCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/OceanLedge_UnwalkableCliffOcean_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/OceanLedge/OceanLedge_UnwalkableCliffOcean_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Leagues/Expedition/Tiles/Tundra/OceanLedge/OceanLedge_UnwalkableCliffOcean_CvCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/OceanLedge/OceanLedge_UnwalkableCliffOcean_CvCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CcMM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/JourneysEnd/UnwalkableLedge_CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CvMM_01.tdt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CvMM_01.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CvMM_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/JourneysEnd/UnwalkableLedge_StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_StMM_01.tdt",
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": {
+        "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_StMM_01.tdt",
+        "tile_parent": null,
+        "tile_tag": null,
+        "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_StMM_01.tgt"
+      }
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/JourneysEnd/UnwalkableLedge_UnwalkableCliffOcean_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_UnwalkableCliffOcean_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_BuildingRoof_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_BuildingRoof_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_BuildingRoof_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_BuildingRoof_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_BuildingWall_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_BuildingWall_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_BuildingWall_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_BuildingWall_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_BuildingWall_Door_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_BuildingWall_Door_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_BuildingWall_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_BuildingWall_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_BuildingWall_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_BuildingWall_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_UnwalkableCliff_Cvcc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_UnwalkableCliff_Cvcc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_UnwalkableCliff_Cvcv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_UnwalkableCliff_Cvcv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_UnwalkableCliff_Cvst_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_UnwalkableCliff_Cvst_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_UnwalkableCliff_Stcv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_UnwalkableCliff_Stcv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_UnwalkableCliff_Stst_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_UnwalkableCliff_Stst_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_UnwalkableCliff_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_UnwalkableCliff_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_Building_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_Building_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_Building_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_Building_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_Building_Door_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_Building_Door_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_Building_Ledge_CvCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_Building_Ledge_CvCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_Building_Ledge_CvCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_Building_Ledge_CvCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_Building_Ledge_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_Building_Ledge_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_Building_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_Building_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_Building_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_Building_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_InnerCliff_Cccv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_InnerCliff_Cccv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_UnwalkableLedge_Cvcc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_UnwalkableLedge_Cvcc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_UnwalkableLedge_Cvcv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_UnwalkableLedge_Cvcv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_UnwalkableLedge_Cvst_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_UnwalkableLedge_Cvst_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_UnwalkableLedge_Stcv_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_UnwalkableLedge_Stcv_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_UnwalkableLedge_Stst_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_UnwalkableLedge_Stst_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_UnwalkableLedge_X_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_UnwalkableLedge_X_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/LoftySummit/Vall_Upper_UnwalkableLedge_Cv_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/LoftySummit/LoftySummit/Vall_Upper_UnwalkableLedge_Cv_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Leagues/Expedition/Logbook_Tundra/Tiles/Vaal_OceanLedge_CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Leagues/Expedition/LogbookTiles/Vaal_OceanLedge_CcMM_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

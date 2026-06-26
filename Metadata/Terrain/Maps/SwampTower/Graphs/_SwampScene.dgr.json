@@ -1,0 +1,184 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Maps/SwampTower/master_subscene.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/SubsceneSwamp/SwampTower_WaterFill_Subscene.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_Subscene.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "SwampTowerOuterVoid",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/SubsceneSwamp/SwampTower_WaterFill_Subscene.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_Subscene.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": null,
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles_subscene.gft",
+    "MaterialsList": "materials_downstairs.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate_subscene.rs",
+    "TileSet": "tiles_subscene.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "swamp_centre",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/swamp_centre.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "swamp_centre",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Rooms/Unique/swamp_subscenefill.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    7,
+    7
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/SubsceneSwamp/SwampTower_WaterFill_A_Subscene_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ruinA",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_A_Subscene_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/SubsceneSwamp/SwampTower_WaterFill_B_Subscene_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ruinB",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_B_Subscene_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/SubsceneSwamp/SwampTower_WaterFill_C_Subscene_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ruinC",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_C_Subscene_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/SubsceneSwamp/SwampTower_WaterFill_D_Subscene_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ruinD",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_D_Subscene_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/SwampTower/Tiles/SubsceneSwamp/SwampTower_WaterFill_Subscene.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/SwampTower/SwampTower_WaterFill_Subscene.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

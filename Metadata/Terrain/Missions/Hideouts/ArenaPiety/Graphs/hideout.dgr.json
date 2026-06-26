@@ -1,0 +1,1111 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Missions/Hideouts/ArenaPiety/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/black.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/IncaDungeon/dungeon_blackness_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "TempleBloodpool",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_fill_v01_01.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Rooms_BloodWalkway/Fill/blood_people_1.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Rooms_BloodWalkway/Fill/blood_people_2.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Rooms_BloodWalkway/Fill/blood_people_3.arm",
+      "prefix": [
+        "40"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/temple_bloodpool_walkway.et",
+      "prefix": null,
+      "suffix": [
+        "1"
+      ],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_fill_v01_01.tdt",
+      "prefix": [
+        "2000"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_03.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_04.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_05.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_06.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_07.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/temple_bloodpool_edge.et",
+      "prefix": null,
+      "suffix": [
+        "1"
+      ],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_fill_v01_01.tdt",
+      "prefix": [
+        "3000"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_03.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_04.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_05.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_06.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_07.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/temple_bloodpool_abyss_edge.et",
+      "prefix": null,
+      "suffix": [
+        "1"
+      ],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_fill_v01_01.tdt",
+      "prefix": [
+        "1000"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_03.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_04.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_05.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_06.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_07.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_07.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "temple_clean.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Temple/Bloodpool/temple_bloodpool.gt",
+    "Reskin": "lunaris",
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 6,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hideout",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 12,
+      "y": 12
+    },
+    {
+      "numbers": [],
+      "room": "pillar_2",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 12,
+      "y": 55
+    },
+    {
+      "numbers": [],
+      "room": "pillar_1",
+      "strings": [],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 35,
+      "y": 56
+    },
+    {
+      "numbers": [],
+      "room": "empty",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 58,
+      "y": 56
+    },
+    {
+      "numbers": [],
+      "room": "pillar_3",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 57,
+      "y": 32
+    },
+    {
+      "numbers": [],
+      "room": "pillar_1",
+      "strings": [],
+      "transform": "R180",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 58,
+      "y": 9
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaPiety/Rooms/blood_fill.arm",
+      "prefix": [
+        "0"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "empty",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaPiety/Rooms/large_pillar_1.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "pillar_1",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaPiety/Rooms/medium_pillar_1.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "pillar_2",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaPiety/Rooms/small_pillar_1.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "pillar_3",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/ArenaPiety/Rooms/hideout.arm",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    3,
+    3
+  ],
+  "strings": [
+    "",
+    "Metadata/Terrain/Temple/temple_clean_ground.gt",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Dungeon/black.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/IncaDungeon/dungeon_blackness_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_v02_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_v03_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety4",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v03_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_v04_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety5",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v04_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_v05_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety6",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v05_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_v06_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety7",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v06_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_v07_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety8",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v07_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_hideout_v08_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety_stepA",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v08_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_hideout_v09_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety_stepB",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v09_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_hideout_v10_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "piety_stepC",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_v10_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/temple_piety_fight_middle_v02_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "middle",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/temple_piety_fight/temple_piety_fight_middle_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/templeclean_bloodpool_hideoutmarkup_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "markupUL",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/templeclean_bloodpool_hideoutmarkup_v01_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "markupUR",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Features/templeclean_bloodpool_hideoutmarkup_v01_03.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "markupLL",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_column_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_column_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_column_v01_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_column_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_column_v01_03.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_column_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_column_v01_04.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_column_v01_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_column_v02_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_column_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_column_v02_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_column_v02_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_column_v02_03.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_column_v02_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_column_v02_04.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_column_v02_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_column_v02_05.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_column_v02_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_fill_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_fill_v02_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "fill_corner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_03.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_04.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_05.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_06.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_spike_v01_07.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": "spike",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_spike_v01_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_concave_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_concave_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_concave_v01_02.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_concave_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_concave_v01_03.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_concave_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_convex_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_convex_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_convex_v01_02.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_convex_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_convex_v01_03.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_convex_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_convex_v01_04.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_convex_v01_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_corners_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_corners_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_corners_v01_02.tdt",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_corners_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_straight_v01_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_straight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_straight_v01_02.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_straight_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_straight_v01_03.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_straight_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Temple/Bloodpool/templeclean_bloodpool_wall_straight_v01_04.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/TempleDungeon/templeclean_bloodpool_wall_straight_v01_04.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 19,
+  "subgraphs": null,
+  "file_groups": null
+}

@@ -1,0 +1,2576 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Maps/Forge/master.tsi"
+  },
+  "edge_count": 22,
+  "edge_types": {
+    "Metadata/Terrain/Tools/void.et": {
+      "id": "void",
+      "color": "#FF141414"
+    },
+    "Metadata/Terrain/Dungeon/rooms.et": {
+      "id": "rooms",
+      "color": "#FF5A5A5A"
+    }
+  },
+  "edges": [
+    {
+      "from_": 4,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 2,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 6,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 5,
+      "to": 0,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 7,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 9,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 15,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 15,
+      "to": 14,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 13,
+      "to": 14,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 22,
+      "to": 13,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 6,
+      "to": 14,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 14,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 16,
+      "to": 17,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 18,
+      "to": 19,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 20,
+      "to": 21,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 6,
+      "to": 22,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 9,
+      "to": 23,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 23,
+      "to": 19,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 19,
+      "to": 24,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 4,
+      "to": 25,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 25,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 8,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/blank_fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/blank_fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Fills/fill_Deco_Stalagmites_01.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Fills/fill_Deco_Stalagmites_02.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Fills/fill_Deco_Stalagmites_03.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Fills/fill_Deco_Stalagmites_04.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Fills/fill_Deco_Stalagmites_05.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Fills/fill_Deco_Stalagmites_06.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/black.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/IncaDungeon/dungeon_blackness_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "TitanAbyss",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_01.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_03.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_04.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_05.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_06.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_07.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_08.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_09.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Abyss_Fill/Abyss_Fill_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Abyss_Fill/Abyss_Fill_01b.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Abyss_Fill/Abyss_Fill_02.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Abyss_Fill/Abyss_Fill_02b.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Abyss_Fill/Abyss_Fill_03.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Abyss_Fill/Abyss_Fill_03b.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "edgecombo.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": "decals.dct",
+    "Overlays": "overlays.toy",
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 26,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [
+        3
+      ],
+      "room": "entrance",
+      "strings": [
+        "default"
+      ],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 35
+    },
+    {
+      "numbers": [
+        1
+      ],
+      "room": "map_boss",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 334
+    },
+    {
+      "numbers": [
+        2,
+        1
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 357
+    },
+    {
+      "numbers": [
+        0
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 12,
+      "y": 311
+    },
+    {
+      "numbers": [
+        0,
+        19
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 104,
+      "y": 403
+    },
+    {
+      "numbers": [
+        3,
+        6,
+        11
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 58
+    },
+    {
+      "numbers": [
+        15,
+        10,
+        2
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 334
+    },
+    {
+      "numbers": [
+        4
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 173,
+      "y": 311
+    },
+    {
+      "numbers": [
+        21,
+        20,
+        4
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 242,
+      "y": 311
+    },
+    {
+      "numbers": [
+        5,
+        16
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 150,
+      "y": 12
+    },
+    {
+      "numbers": [
+        5,
+        21
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 242,
+      "y": 104
+    },
+    {
+      "numbers": [],
+      "room": "source",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 242,
+      "y": 12
+    },
+    {
+      "numbers": [],
+      "room": "sink",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 403
+    },
+    {
+      "numbers": [
+        8,
+        9
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 196
+    },
+    {
+      "numbers": [
+        11,
+        7,
+        10,
+        8
+      ],
+      "room": "checkpoint",
+      "strings": [],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 173
+    },
+    {
+      "numbers": [
+        6,
+        7
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 196,
+      "y": 127
+    },
+    {
+      "numbers": [
+        12
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 150,
+      "y": 150
+    },
+    {
+      "numbers": [
+        12
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 150,
+      "y": 127
+    },
+    {
+      "numbers": [
+        13
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 81,
+      "y": 150
+    },
+    {
+      "numbers": [
+        17,
+        13,
+        18
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 12,
+      "y": 150
+    },
+    {
+      "numbers": [
+        14
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 81,
+      "y": 219
+    },
+    {
+      "numbers": [
+        14
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 81,
+      "y": 288
+    },
+    {
+      "numbers": [
+        9,
+        15
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 288
+    },
+    {
+      "numbers": [
+        16,
+        17
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    },
+    {
+      "numbers": [
+        18
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 12,
+      "y": 311
+    },
+    {
+      "numbers": [
+        20,
+        19
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 242,
+      "y": 403
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Unique/boss_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "map_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Unique/noboss_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "no_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Unique/checkpoint_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "checkpoint",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Unique/checkpoint_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "checkpoint",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Unique/checkpoint_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "checkpoint",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Unique/checkpoint_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "checkpoint",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Unique/entrance_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Unique/forced_rare_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "rare",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Unique/mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Fills/fill_abyss.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Fills/fill_abyss_source.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "source",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/Fills/fill_abyss_sink.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "sink",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/1x1/Open_01.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/1x1/Tri_01.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/1x1/End_01.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/1x1/End_02.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/1x1/Cnr_01.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/1x1/Cnr_02.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/1x1/St_01.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_01.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_02.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_03.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_04.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_05.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_06.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_07.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_08.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_09.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_10.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/2open_11.arm",
+      "prefix": [
+        "25"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_01.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_02.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_03.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_04.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_05.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_06.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_07.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_08.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_09.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_10.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_11.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_12.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_13.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/3open_14.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/4open_01.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/8open_01.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Rooms/2x2/8open_02.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    11,
+    18
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Crucible/Abyss_Fill_ForcedBlank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Arena_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "titan_arena",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Forge/Titan_Arena_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/Crucible/Abyss_Edge_Quad_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Quad_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/Abyss_Walkway_Titan_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Walkway_Titan_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "LeanTitan",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_MidUpper_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_MidUpper_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_platform_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Titanshoulder",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_platform_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_platform_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "TitanHandBridge",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_platform_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_Quad_01.tdt",
+      "prefix": null,
+      "suffix": [],
+      "tile_tag": "SlumpTitan",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Quad_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/Crucible/WalkwayTitan_Statue_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "StatueBack",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Statue_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_Statue_St_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ShrineTitan",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Statue_St_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Walkway_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Walkway_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Walkway_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Walkway_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Stairs_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Stairs_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Stairs_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Stairs_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Walkway_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Walkway_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/HeadPlatforms/HeadStairsMidUpper_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/HeadStairsMidUpper_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/HeadPlatforms/HeadStairsMidUpper_Cr_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/HeadStairsMidUpper_Cr_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/HeadPlatforms/Crucible/TitanWalkway_Statue_Tri_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/TitanWalkway_Statue_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_Cr_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Cr_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_St_01_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Blank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_St_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_Tri_01.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_Tri_v02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Tri_v02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_MidUpper_StairsCr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_MidUpper_StairsCr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_MidUpper_StairsSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_MidUpper_StairsSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/WalkwayTitan_Mid_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Mid_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/WalkwayTitan_Mid_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Mid_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_BrokenBridge_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "mid_end_feature",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_BrokenBridge_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_MidPlatform_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "FaceLift",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_MidPlatform_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/LargeStairs/StairsEmpty_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/StairsEmpty_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/LargeStairs/Walkway_LargeStair_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/LargeStair_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/LargeStairs/Walkway_LargeStair_Cr_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/LargeStair_Cr_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/LargeStairs/Walkway_LargeStair_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/LargeStair_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_Cr_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_End_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_St_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_St_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_St_03.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_Tri_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_Tri_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_Tri_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/WalkwayTitan_Upper_St_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Upper_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/WalkwayTitan_Upper_St_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Upper_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_BrokenBridge_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "broken",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_BrokenBridge_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Entrance_Metatile_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt;Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Statue_St_End_01.tgt;Art/Models/Terrain/Desert/TitanCave/LargeStair_Cr_02.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Walkway_End_Metatile_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Walkway_End_Metatile_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_End_01.tgt;Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Walkway_Tri_Metatile_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/TitanWalkway_Statue_Tri_01.tgt;Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Walkway_St_Metatile_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "st_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_03.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Walkway_St_Metatile_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "st_02",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_St_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Walkway_St_Metatile_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_Tri_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_MidUpper_StairsSt_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Cr_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Tri_01.tgt;Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Walkway_BrokenBridge_Metatile_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_BrokenBridge_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/AbyssEdge_Metatile_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Walkway_X_01.tgt;Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cv_01.tgt;Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Forge/Tiles/Titan_Metatiles/Walkway_AbyssEdge_Metatile_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cv_01.tgt;Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cc_01.tgt;Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Walkway_Cv_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_St_03.tgt;Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Walkway_St_01.tgt;Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Cr_01.tgt;Art/Models/Terrain/Desert/TitanCave/blank_fill_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

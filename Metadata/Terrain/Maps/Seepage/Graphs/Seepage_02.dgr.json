@@ -1,0 +1,1937 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Maps/Seepage/master.tsi"
+  },
+  "edge_count": 4,
+  "edge_types": {
+    "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et": {
+      "id": "MachinariumOfficeLineRooms",
+      "color": "#6f03fc"
+    }
+  },
+  "edges": [
+    {
+      "from_": 2,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        2,
+        "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+        0,
+        65,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+      "color": "#6f03fc"
+    },
+    {
+      "from_": 1,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        2,
+        "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+        0,
+        65,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+      "color": "#6f03fc"
+    },
+    {
+      "from_": 0,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+        0,
+        65,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        50,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+      "color": "#6f03fc"
+    },
+    {
+      "from_": 0,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        1,
+        "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+        0,
+        65,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        50,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+      "color": "#6f03fc"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_blank_fill.tdt",
+      "prefix": [
+        "150"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_blank_fill.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/blackinsidewall_roofshadow.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/blackinsidewall_roofshadow.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 4,
+  "numbers": [
+    1
+  ],
+  "nodes": [
+    {
+      "numbers": [
+        2,
+        3
+      ],
+      "room": "map_boss",
+      "strings": [],
+      "transform": "R90",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        "-75",
+        0,
+        75,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 196
+    },
+    {
+      "numbers": [
+        1,
+        3
+      ],
+      "room": "checkpoint",
+      "strings": [],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 104
+    },
+    {
+      "numbers": [
+        0,
+        2
+      ],
+      "room": "feature",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 35,
+      "y": 104
+    },
+    {
+      "numbers": [
+        1,
+        0
+      ],
+      "room": "entrance",
+      "strings": [
+        "default"
+      ],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        "-75",
+        0,
+        75,
+        0,
+        "N",
+        0
+      ],
+      "x": 80,
+      "y": 11
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/fill_blackwall.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/boss_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "map_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/no_boss_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "no_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/checkpoint_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "checkpoint",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/checkpoint_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "checkpoint",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/checkpoint_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "checkpoint",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/checkpoint_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "checkpoint",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/entrance_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/feature_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "feature",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/forced_rare_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "rare",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/mission_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/mission_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/mission_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Unique/mission_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_06.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_07.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_08.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_quad_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_rooms_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_rooms_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_rooms_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_rooms_cnr_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_rooms_cnr_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_rooms_end_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_rooms_end_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_tri_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_tri_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_tri_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_tri_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    7,
+    10
+  ],
+  "strings": [
+    "",
+    "",
+    "Metadata/Terrain/Gallows/Act3/3_6_2/GroundTypes/MachinariumLower.gt"
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Dungeon/black.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/IncaDungeon/dungeon_blackness_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_blank_fill.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_blank_fill.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_blank_fill_forced.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_blank_fill.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/SeepageArenaCenter.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "arena_stairs",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Seepage/SeepageArenaCenter.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_altar_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "altar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_altar_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_column_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_column_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_door_thick_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_door_thick_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_entrance_thin_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_entrance_thin_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_entrance_thin_v01_01_open.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door_open",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_entrance_thin_open_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_floor_height_pillar_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "column",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_pillar_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_gate_thin_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_gate_thin_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_gate2_thin_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_gate2_thin_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v01_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ruin",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v01_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v01_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ruin",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v01_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v01_07.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ruin",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v01_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v01_08.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ruin",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v01_08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v02_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "smallruinedpillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v02_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v02_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "collapse_small",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v02_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v02_07.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "collapse_small",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v02_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v02_08.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "collapse_small",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v02_08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v03_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ruinedcolumn",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v03_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_ruin_v05_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "bigruinedpillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v05_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/dungeon_wall_post_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "post",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_post_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/Machinarium_Entrance_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "MechEntrance",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/Machinairum_Entrance_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/pillar_gate_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/pillar_gate_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/pillar_thinwall_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/pillar_thinwall_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextFeatures/ThickwallConcave_Round_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/ThickwallConcave_Round_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floorwall_thin_height_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floorwall_thin_height_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_corner_convex_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_corner_convex_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_corner_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_corner_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "busted",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_v01_010.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_010.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_v01_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_v01_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_v01_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_v01_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_v01_07.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_v01_08.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_floor_height_v01_09.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_09.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_stairs_fill_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_stairs_fill_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_fill_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_wall_height_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_height_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_wall_thin_height_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_height_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_wall_thin_height_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_height_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextLedge/dungeon_wall_thin_height_v02_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_height_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_floor_height_concave_stairs_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_concave_stairs_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_floor_height_convex_stairs_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_convex_stairs_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_half_stairs_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_half_stairs_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_stairs_concave_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_concave_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_stairs_convex_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_convex_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_stairs_straight_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stairs",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_straight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_stairs_straight_v02_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_straight_v02_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_stairs_straight_v03_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_straight_v03_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_stairs_to_ledge_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_to_ledge_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_wall_straight_stairs_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_straight_stairs_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/dungeon_stairs_thin_straight_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_thin_straight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextStairs/Circle_stairs_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/Circle_stair_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_thick_to_thin_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_thick_to_thin_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_thick_to_thin_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_thick_to_thin_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_corner_convex_v02_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_corner_convex_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_straight_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_straight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_straight_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_straight_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_straight_v01_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_straight_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_straight_v02_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_straight_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_straight_v02_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_straight_v02_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_straight_v03_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_straight_v03_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_straight_v04_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_straight_v04_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thick_X_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thick_X_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_corner_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_corner_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_corner_v02_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_corner_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_end_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_end_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_end_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_end_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_end_v01_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "brokenwall2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_end_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_end_v01_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "brokenwall",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_end_v01_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_pillar_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_pillar_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_pillar_v02_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_pillar_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_pillar_v03_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_pillar_v03_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_pillar_v04_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_pillar_v04_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_thick_T_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_thick_T_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_thick_X_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_thick_X_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_T_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_T_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_T_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_T_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_X_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_X_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/NextWalls/dungeon_wall_thin_X_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_X_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/BossPillar01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "bosspillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/BossPillar01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/BossWall01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Machinarium",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/BossWall01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "spawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "spawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "spawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_07.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_09.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_09.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_10.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_010.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_11.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_011.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_12.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_012.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_13.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_013.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_14.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_014.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_08.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "spawner_blocking",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_15.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": "spawner_floor",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_015.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_16.tdt",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": "spawner_floor",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_016.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_17.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "spawner_blocking",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_017.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_18.tdt",
+      "prefix": [
+        "3"
+      ],
+      "suffix": null,
+      "tile_tag": "spawner_floor",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_018.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_19.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "spawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_019.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/construct_20.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "spawner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/construct_020.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/MachinariumDoublePillar_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "doublepillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_column_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/MachinariumDoublePillar_Broken_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "doublepillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/PillarDoubleBroken_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/MachinariumDoublePillar_Thinwall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "doublepillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/PillarDoubleThinEnd_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/MachinariumDoublePillar_Thinwall_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "doublepillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/PillarDoubleThinSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/MachinariumDoublePillar_Thinwall_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "doublepillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/PillarDoubleThinCvCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/MachinariumDoublePillar_Thinwall_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "doublepillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/PillarDoubleThinT_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/MachinariumDoublePillar_Thinwall_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "doublepillar",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/PillarDoubleThinX_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/ThickwallCurveCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "LargeCurve",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/ThickwallCurveCc_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/ThickwallCurveCc_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "SmallCurve",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/ThickwallCurveCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/ThickwallCurveCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "shortcurve",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/ThickwallCurveCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/ThickwallCurveSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "circleroom",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/ThickwallCurveSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/DoubleThickCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/DoubleThickCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/DoubleThickCcLedgeCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/DoubleThickCcLedgeCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/DoubleThickCcLedgeSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/DoubleThickCcLedgeSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/DoubleThickCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/DoubleThickCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/DoubleThickCv_Thin_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/DoubleThickCv_Thin_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/DoubleThickSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/DoubleThickSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/DoubleThickSt_Hallway_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "arenagate",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/DoubleThickSt_Hallway_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/DoubleThickSt_Thin_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/DoubleThickSt_Thin_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/DoubleThickStairs_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/DoubleThickStairs_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/LedgeDoubleCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/LedgeDoubleCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/LedgeDoubleCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/LedgeDoubleCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/LedgeDoubleSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/LedgeDoubleSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/LedgeDoubleStairs_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/LedgeDoubleStairs_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/LedgeDoubleStairs_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/LedgeDoubleStairs_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/LedgeDoubleStairs_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/LedgeDoubleStairs_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/LedgeDoubleStairs_Bollards_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "arenagate",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/LedgeDoubleStairs_Bollards_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Tiles/Machinarium/DoubleLedge/LedgeDoubleThickSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/LedgeDoubleThickSt_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

@@ -1,0 +1,459 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "CentralFloor",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Black_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Black_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "ThaumaturgyAbyss",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_Abyss_Fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_Abyss_Fill_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/impassable_ground.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hideout",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 12,
+      "y": 10
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Rooms/hideout.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    3,
+    3
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_Abyss_StDoor_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "doorclosed",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_Abyss_StDoor_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_AbyssThickWall_StDoor_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "doorclosed",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_AbyssThickWall_StDoor_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_AcidVat_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "acid_vat",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_AcidVat_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_CentralRoom_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "CentralRoom",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_CentralRoom_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_ThickWall_Transition_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "area_transition",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_Transition_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_Abyss_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_Abyss_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_AbyssThickWall_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_AbyssThickWall_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_AbyssThickWall_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_AbyssThickWall_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_AbyssThickWall_St_02_feature.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "pipes",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_AbyssThickWall_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_AbyssThinWall_St_02_feature.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "window",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_AbyssThinWall_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_AbyssThinWall_St_03_feature.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "bars",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_AbyssThinWall_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_ThickWallAbyss_CvCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWallAbyss_CvCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_ThickWallAbyssThinWall_CvCr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWallAbyssThinWall_CvCr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_ThinWallAbyss_CvCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThinWallAbyss_CvCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_ThinWallAbyss_StCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThinWallAbyss_StCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_Walkway_Tri_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_Walkway_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_Walkway_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_Walkway_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_Walkway_St_02_feature.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "support",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_Walkway_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_WalkwayAbyss_EndSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_WalkwayAbyss_EndSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_WalkwayAbyssThickWall_EndSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_WalkwayAbyssThickWall_EndSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Abyss/Thaumaturgy_WalkwayAbyssThinWall_EndSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_WalkwayAbyssThinWall_EndSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/ThickWall/Thaumaturgy_ThickWall_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/ThickWall/Thaumaturgy_ThickWall_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_ThickWall_St_02_feature.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "wall_deco",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_ThickWall_St_03_h1.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "wall_pipes_h1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_St_03_h1.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_ThickWall_St_03_h2.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "wall_pipes_h2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_St_03_h2.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_ThickWall_St_03_h3.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "wall_pipes_h3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_St_03_h3.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_ThickWall_St_04_h1.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "wall_bottles_h1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_St_04_h1.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_ThickWall_St_04_h2.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "wall_bottles_h2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_St_04_h2.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_ThickWall_St_04_h3.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "wall_bottles_h3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_St_04_h3.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/Feature/Thaumaturgy_ThickWall_St_05_h3.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "wall_posters_h3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWall_St_05_h3.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/ThickWall/Thaumaturgy_ThickWallThinWall_CvSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThickWallThinWall_CvSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Thaumaturgy/Tiles/ThinWall/Thaumaturgy_ThinWall_Door_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Thaumaturgy/Thaumaturgy_ThinWall_Door_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 19,
+  "subgraphs": null,
+  "file_groups": null
+}

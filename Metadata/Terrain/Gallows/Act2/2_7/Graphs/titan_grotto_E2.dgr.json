@@ -1,0 +1,2524 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Gallows/Act2/2_7/master.tsi"
+  },
+  "edge_count": 16,
+  "edge_types": {
+    "Metadata/Terrain/Dungeon/rooms.et": {
+      "id": "rooms",
+      "color": "#FF5A5A5A"
+    },
+    "Metadata/Terrain/Tools/void.et": {
+      "id": "void",
+      "color": "#FF141414"
+    }
+  },
+  "edges": [
+    {
+      "from_": 1,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 0,
+      "to": 4,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 4,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 7,
+      "to": 6,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 5,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 2,
+      "to": 9,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 6,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 9,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 3,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 14,
+      "to": 13,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 12,
+      "to": 15,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 16,
+      "to": 13,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from_": 5,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        40,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 10,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 5,
+      "to": 11,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from_": 4,
+      "to": 17,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/blank_fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/blank_fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Fills/fill_Deco_Stalagmites_01.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Fills/fill_Deco_Stalagmites_02.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Fills/fill_Deco_Stalagmites_03.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Fills/fill_Deco_Stalagmites_04.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Fills/fill_Deco_Stalagmites_05.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Fills/fill_Deco_Stalagmites_06.arm",
+      "prefix": [
+        "80"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/black.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/IncaDungeon/dungeon_blackness_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "TitanAbyss",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Fill_01.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Fill_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Fill_03.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Fill_04.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Fill_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "edgecombo.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/black_inside_wall.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": "overlays.toy",
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 18,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [
+        1
+      ],
+      "room": "entrance",
+      "strings": [
+        "default",
+        "entrance1"
+      ],
+      "transform": "FI",
+      "unknown": [
+        100,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 311,
+      "y": 12
+    },
+    {
+      "numbers": [
+        0
+      ],
+      "room": "boss",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 173
+    },
+    {
+      "numbers": [
+        8,
+        5
+      ],
+      "room": "stairsdown2",
+      "strings": [],
+      "transform": "FR270",
+      "unknown": [
+        100,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 196,
+      "y": 173
+    },
+    {
+      "numbers": [
+        4,
+        8
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 242,
+      "y": 173
+    },
+    {
+      "numbers": [
+        1,
+        2,
+        15
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 288,
+      "y": 35
+    },
+    {
+      "numbers": [
+        12,
+        2,
+        14,
+        4
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 288,
+      "y": 127
+    },
+    {
+      "numbers": [
+        3,
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 35
+    },
+    {
+      "numbers": [
+        12,
+        3
+      ],
+      "room": "stairsdown",
+      "strings": [],
+      "transform": "R270",
+      "unknown": [
+        100,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 35
+    },
+    {
+      "numbers": [
+        13
+      ],
+      "room": "unique",
+      "strings": [
+        "unique1"
+      ],
+      "transform": "FI",
+      "unknown": [
+        100,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 35
+    },
+    {
+      "numbers": [
+        7,
+        5
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 173,
+      "y": 173
+    },
+    {
+      "numbers": [
+        13,
+        6,
+        7,
+        0
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 81,
+      "y": 81
+    },
+    {
+      "numbers": [
+        14
+      ],
+      "room": "unique",
+      "strings": [
+        "unique1"
+      ],
+      "transform": "R270",
+      "unknown": [
+        100,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 311,
+      "y": 173
+    },
+    {
+      "numbers": [
+        10
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 380,
+      "y": 104
+    },
+    {
+      "numbers": [
+        9,
+        11
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 196,
+      "y": 81
+    },
+    {
+      "numbers": [
+        9
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 196,
+      "y": 12
+    },
+    {
+      "numbers": [
+        10
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 334,
+      "y": 104
+    },
+    {
+      "numbers": [
+        11
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 219,
+      "y": 219
+    },
+    {
+      "numbers": [
+        15
+      ],
+      "room": "unique",
+      "strings": [
+        "unique1"
+      ],
+      "transform": "FR90",
+      "unknown": [
+        100,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 219,
+      "y": 104
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/entrance_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/boss_01.arm",
+      "prefix": null,
+      "suffix": [
+        "I"
+      ],
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/boss_02.arm",
+      "prefix": null,
+      "suffix": [
+        "I"
+      ],
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/boss_03.arm",
+      "prefix": null,
+      "suffix": [
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/boss_04.arm",
+      "prefix": null,
+      "suffix": [
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/boss_05.arm",
+      "prefix": null,
+      "suffix": [
+        "R90"
+      ],
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/boss_06.arm",
+      "prefix": null,
+      "suffix": [
+        "R90"
+      ],
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/boss_07.arm",
+      "prefix": null,
+      "suffix": [
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/boss_08.arm",
+      "prefix": null,
+      "suffix": [
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/mission_01.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/stairsdown_01.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "FR90",
+        "R180",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "stairsdown",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/stairsdown_02.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "stairsdown",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/stairsdown_03.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R90",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "stairsdown",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/stairsdown_01_1.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "FR90",
+        "R180",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "stairsdown2",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/stairsdown_02_1.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R90",
+        "FR180",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "stairsdown2",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/stairsdown_03_1.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R90",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "stairsdown2",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/unique_01.arm",
+      "prefix": null,
+      "suffix": [
+        "I",
+        "FI",
+        "R270",
+        "FR270"
+      ],
+      "tile_tag": null,
+      "room_tag": "unique",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Unique/unique_02.arm",
+      "prefix": null,
+      "suffix": [
+        "R90",
+        "FR90",
+        "R180",
+        "FR180"
+      ],
+      "tile_tag": null,
+      "room_tag": "unique",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Fills/fill_abyss_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Fills/fill_abyss_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/Fills/fill_abyss_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/Corner_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/End_01.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/End_02.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/End_03.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/Open_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/Open_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/Open_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/Open_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/St_Abyss_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/St_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/Tri_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/1x1/Tri_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/1open_01.arm",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/2open_01.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/2open_02.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/2open_03.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/2open_04.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/2open_05.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/2open_06.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/3open_01.arm",
+      "prefix": [
+        "16"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/3open_02.arm",
+      "prefix": [
+        "16"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/3open_03.arm",
+      "prefix": [
+        "16"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/3open_04.arm",
+      "prefix": [
+        "16"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/3open_05.arm",
+      "prefix": [
+        "16"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/3open_06.arm",
+      "prefix": [
+        "16"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/3open_07.arm",
+      "prefix": [
+        "16"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_01.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_02.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_03.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_04.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_05.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_06.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_07.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_08.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_09.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_10.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_11.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/4open_12.arm",
+      "prefix": [
+        "6"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_01.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_02.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_03.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_04.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_05.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_06.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_07.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_08.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_09.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/5open_10.arm",
+      "prefix": [
+        "4"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/6open_01.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/6open_02.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/6open_03.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/6open_04.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/6open_05.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/6open_06.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/6open_07.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/6open_08.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/7open_01.arm",
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/8open_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act2/2_7/Rooms/2x2/8open_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    17,
+    10
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/forced_blank_fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/blank_fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/Staircase_Entrance_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "spiral_entrance",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/centralstaircase_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/Titan_Arena_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "titan_arena",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Titan_Arena_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/Abyss_Edge_Quad_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Quad_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/Abyss_Walkway_Titan_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Walkway_Titan_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "LeanTitan",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_MidUpper_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_MidUpper_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_platform_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Titanshoulder",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_platform_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_platform_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "TitanHandBridge",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_platform_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_Quad_01.tdt",
+      "prefix": null,
+      "suffix": [],
+      "tile_tag": "SlumpTitan",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Quad_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_Statue_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "StatueBack",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Statue_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_Statue_St_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "ShrineTitan",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Statue_St_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Features/WalkwayTitan_Statue_St_End_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "WalkableTitan",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Statue_St_End_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cc_01a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cc_01b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cc_01c.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cv_01a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cv_01b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Cv_01c.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_St_01a.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_St_01b.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_St_01c.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Walkway_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Walkway_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Walkway_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Walkway_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Stairs_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Stairs_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Stairs_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Stairs_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/Abyss/Abyss_Edge_Walkway_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Abyss_Edge_Walkway_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/HeadPlatforms/HeadStairsMidUpper_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/HeadStairsMidUpper_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/HeadPlatforms/HeadStairsMidUpper_Cr_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/HeadStairsMidUpper_Cr_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/HeadPlatforms/TitanWalkway_Statue_Tri_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/TitanWalkway_Statue_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_Cr_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Cr_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_End_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_St_01_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Blank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_St_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_Tri_01.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_Tri_v02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_Tri_v02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_MidUpper_StairsCr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_MidUpper_StairsCr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_MidUpper_StairsSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_MidUpper_StairsSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/WalkwayTitan_Mid_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Mid_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/WalkwayTitan_Mid_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Mid_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_Mid_BrokenBridge_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "mid_end_feature",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Mid_BrokenBridge_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayMid/Walkway_MidPlatform_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "FaceLift",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_MidPlatform_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/LargeStairs/StairsEmpty_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/StairsEmpty_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/LargeStairs/Walkway_LargeStair_Cr_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/LargeStair_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/LargeStairs/Walkway_LargeStair_Cr_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/LargeStair_Cr_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/LargeStairs/Walkway_LargeStair_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stair",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/LargeStair_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_Cr_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_Cr_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_End_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_End_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_St_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_St_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_St_03.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_St_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_Tri_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_Tri_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_Tri_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_Tri_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/WalkwayTitan_Upper_St_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Upper_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/WalkwayTitan_Upper_St_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/WalkwayTitan_Upper_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Desert/CaveTitans/WalkwayUpper/Walkway_Upper_BrokenBridge_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "broken",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Desert/TitanCave/Walkway_Upper_BrokenBridge_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

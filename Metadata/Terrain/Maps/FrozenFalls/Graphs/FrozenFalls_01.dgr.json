@@ -1,0 +1,1988 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Maps/FrozenFalls/master.tsi"
+  },
+  "edge_count": 12,
+  "edge_types": {
+    "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et": {
+      "id": "IslandUnwalkableLedge",
+      "color": null
+    },
+    "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et": {
+      "id": "GlacierRiverRooms",
+      "color": "#FF0040FF"
+    }
+  },
+  "edges": [
+    {
+      "from_": 1,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 0,
+      "to": 3,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 6,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 10,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 8,
+      "to": 4,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+      "color": "#FF0040FF"
+    },
+    {
+      "from_": 3,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 5,
+      "to": 6,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableLedge/island_unwalkable_ledge.et",
+      "color": null
+    },
+    {
+      "from_": 0,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+      "color": "#FF0040FF"
+    },
+    {
+      "from_": 7,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+      "color": "#FF0040FF"
+    },
+    {
+      "from_": 4,
+      "to": 9,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+      "color": "#FF0040FF"
+    },
+    {
+      "from_": 11,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+      "color": "#FF0040FF"
+    },
+    {
+      "from_": 9,
+      "to": 11,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "I",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Maps/FrozenFalls/Graphs/GlacierRiverRooms.et",
+      "color": "#FF0040FF"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "RiverGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "UpperGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "300"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_02.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_03.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_04.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_05.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_06.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_07.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_08.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_09.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "IslandInnerCliff",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_SmallFill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_SmallFill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_Fill_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Stack_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Stack_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Stack_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Stack_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Ridge_01.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Ridge_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Ridge_02.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Ridge_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Mountain_01.tdt",
+      "prefix": [
+        "400"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Mountain_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Mountain_02.tdt",
+      "prefix": [
+        "400"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillTall_Mountain_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Pit_01.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Pit_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Pit_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Pit_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Crevice_01.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Crevice_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Crevice_02.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Crevice_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Valley_01.tdt",
+      "prefix": [
+        "400"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Valley_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Valley_02.tdt",
+      "prefix": [
+        "400"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_FillLow_Valley_02.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Islands/Tiles/Island/island_ocean_deepwater.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": "decals.dct",
+    "Overlays": "overlays.toy",
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 12,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [
+        7,
+        1
+      ],
+      "room": "entrance",
+      "strings": [
+        "default"
+      ],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    },
+    {
+      "numbers": [
+        3,
+        0
+      ],
+      "room": "map_boss",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 265,
+      "y": 35
+    },
+    {
+      "numbers": [
+        0,
+        2
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 265,
+      "y": 104
+    },
+    {
+      "numbers": [
+        1,
+        5
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 58,
+      "y": 58
+    },
+    {
+      "numbers": [
+        9,
+        4
+      ],
+      "room": "lake",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 150,
+      "y": 81
+    },
+    {
+      "numbers": [
+        5,
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 173
+    },
+    {
+      "numbers": [
+        2,
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 242,
+      "y": 173
+    },
+    {
+      "numbers": [
+        8,
+        7
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 104,
+      "y": 12
+    },
+    {
+      "numbers": [
+        8,
+        4
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 127,
+      "y": 81
+    },
+    {
+      "numbers": [
+        11,
+        9
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 219,
+      "y": 81
+    },
+    {
+      "numbers": [
+        3,
+        10
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 265,
+      "y": 12
+    },
+    {
+      "numbers": [
+        10,
+        11
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 242,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/entrance_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/boss_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "map_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/boss_02.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/boss_03.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/boss_rare_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "no_boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/boss_rare_02.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/boss_rare_03.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/forced_rare_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "rare",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_cc_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_cc_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_cc_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_cc_mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_cv_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_cv_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_cv_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_cv_mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_st_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_st_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_st_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/cliff_st_mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/river_to_cliff_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/river_to_cliff_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Cliff/river_to_cliff_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_cc_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_cc_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_cc_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_cc_mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_cv_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_cv_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_cv_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_cv_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_cv_mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_st_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_st_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_st_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/river_st_mission_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/lake_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lake",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/lake_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lake",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/River/lake_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "lake",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Fills/cliff_fill_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Fills/generic_fill_01.arm",
+      "prefix": [
+        "//"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Fills/generic_fill_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Rooms/Fills/generic_fill_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    16,
+    8
+  ],
+  "strings": [
+    "Metadata/Terrain/Maps/FrozenFalls/Graphs/upper_ground.gt",
+    "Metadata/Terrain/Maps/FrozenFalls/Graphs/river_ground.gt",
+    "Metadata/Terrain/Maps/FrozenFalls/Graphs/river_ground.gt"
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part3/P3_3/KriarVillage_Entrance.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "AreaTransitionnwa",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part3/P3_3/KriarVillage_Entrance.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part3/P3_3/GlacialTarn_Bossroom.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "bossroom",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part3/P3_3/GlacialTarn_Bossroom.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "fill",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_07.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_08.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/upperfill_09.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_XMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableCliff/UnwalkableCliff_XMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableCliff_Waterfall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "waterfall",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Glacier/UnwalkableCliff_Waterfall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableCliff_Waterfall_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "waterfall",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Glacier/UnwalkableCliff_Waterfall_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableCliff_Waterfall_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "waterfall_fake",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Glacier/UnwalkableCliff_Waterfall_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/Cove_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "cove",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Glacier/Cove_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableCliff_CcMM_Fake_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "fake",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Glacier/UnwalkableCliff_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableCliff_StMM_Fake_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "fake",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Glacier/UnwalkableCliff_StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_Clifftop_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_Clifftop_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_UnwalkableCliff_to_Walkable_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_UnwalkableCliff_to_Walkable_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_UnwalkableLedge_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_UnwalkableLedge_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_WalkableCliff_CvCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_WalkableCliff_CvCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_WalkableCliff_CvCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_WalkableCliff_CvCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_WalkableCliff_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_WalkableCliff_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_WalkableCliff_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_WalkableCliff_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_DuneCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_DuneCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/LowerLedge/LowerLedge_DuneSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "door",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/LowerLedge/LowerLedge_DuneSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_Clifftop_XMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_Clifftop_XMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_to_Unwalkable_XMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_to_Unwalkable_XMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_XMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/WalkableCliff/WalkableCliff_XMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_BendOverlay_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_BendOverlay_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_CcMM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_CcOverlay_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CcOverlay_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_CvOverlay_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_CvOverlay_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_StMM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "postunique",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_StOverlay_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_StOverlay_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_CvCc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_CvCc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_CvCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_CvCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_to_Walkable_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_to_Walkable_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_to_Walkable_StSt_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_to_Walkable_StSt_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_to_Walkable_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_to_Walkable_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_X_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_X_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_X_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_UnwalkableCliff_X_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_Walkable_CcCv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_Walkable_CcCv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_Walkable_CcSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_Walkable_CcSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_Walkable_CcSt_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_Walkable_CcSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_Walkable_CcSt_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_Walkable_CcSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_Walkable_StSt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_Walkable_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_Walkable_StSt_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_Walkable_StSt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_Walkable_UnwalkableLedge_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_Walkable_UnwalkableLedge_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/FrozenFalls/Tiles/UnwalkableLedge/UnwalkableLedge_XMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Islands/Tiles/Island/UnwalkableLedge/UnwalkableLedge_XMM_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

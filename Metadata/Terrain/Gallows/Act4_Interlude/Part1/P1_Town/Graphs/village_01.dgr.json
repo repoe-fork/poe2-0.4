@@ -1,0 +1,990 @@
+{
+  "data": {
+    "Default_": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Gallows/Act4_Interlude/Part1/P1_Town/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_hut.arm",
+      "prefix": [
+        "300"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_fill_03.arm",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_fill_04.arm",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Fields/Farm_01.tdt",
+      "prefix": [
+        "//20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Fields/Farm_02.tdt",
+      "prefix": [
+        "//20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_fill_01.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_fill_02.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_villagefill_01.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_villagefill_03.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_villagefill_04.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_villagefill_05.arm",
+      "prefix": [
+        "//20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Fills/Groundfill_05.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": "shed",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsBurning/Groundfill_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_well_01.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/random_villagefill_02.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/chestfill_hangsaw_01.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Gallows/Act1/1_13/Rooms/Fill/chestfill_witchstake_01.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "VillageHuts",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Yurts/Yurt_Fill_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "CourtyardOuterGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Manor/ManorFill.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "VillageField",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Outer/Fields_01.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Outer/Fields_02.tdt",
+      "prefix": [
+        "//1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Outer/Fields_03.tdt",
+      "prefix": [
+        "//1"
+      ],
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "VillageField_nocrop",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/NoCrop/Blank_nocrop.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Outer/Fields_01_nocrop.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "WideRiverWater",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/Fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/Fill_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Woods/Village/Huts/village_field.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": "Metadata/Terrain/edge_points.edp",
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "town",
+      "strings": [
+        "entrance1"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Gallows/Act4_Interlude/Part1/P1_Town/Rooms/Unique/blacksmith.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "town",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    7,
+    7
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/NoCrop/Blank_nocrop.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/Blacksmith_Refruge_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Interlude/Part1/P1_Town/Blacksmith_Refruge_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Fills/Groundfill_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "groundfill_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsBurning/Groundfill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Fills/Groundfill_02.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "groundfill_02",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsBurning/Groundfill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Fills/Groundfill_03.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "groundfill_03",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsBurning/Groundfill_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Fills/Groundfill_04.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "groundfill_04",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsBurning/Groundfill_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Fills/Groundfill_05.tdt",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": "shed",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsBurning/Groundfill_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Yurts/Yurt_Fill_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/NoCrop/Blank_nocrop.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Outer/Fields_01_nocrop.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Outer/Fields_01.tdt",
+      "prefix": [
+        "5"
+      ],
+      "suffix": [],
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/OuterWall/Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/OuterWall/Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/OuterWall/St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Woods/Village/Huts/Outer/Fields_01.tdt",
+      "prefix": [
+        "70"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/HutsConnections/Fields_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CcSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CcSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CcSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CcSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CcSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CcSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CcWM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CcWM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CcWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CcWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CvMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CvMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CvSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CvSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CvSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CvSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CvSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CvSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/CvWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/CvWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/StMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/StMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/StSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/StSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/StSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/StSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/StSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/StSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/StWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/New/StWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/WideRiver/Fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/WideRiver/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Hut_Cc_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Hut_Cc_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Hut_Cv_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Hut_Cv_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Hut_St_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Hut_St_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Hut_St_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Hut_St_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Yurt",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_CcWM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_CcWM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_CcWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_CcWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_CvWM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_CvWM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_CvWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_CvWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_CvWW_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_CvWW_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_CvWW_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_CvWW_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_Fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_StWM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_StWM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_StWM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_StWM_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_StWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_StWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_StWW_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_StWW_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_XMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_XMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_XMM_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_XMM_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_XMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_XMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_XMW_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_XMW_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_XMW_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_XMW_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_XMW_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_XMW_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_XMW_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_XMW_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_XMW_05_Forced.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forced_bypass",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_XMW_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Interlude/Part1/P1_Town/UnwalkableYurt/Yurt_XWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Woods/Tiles/Village/Huts/Yurt_XWW_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

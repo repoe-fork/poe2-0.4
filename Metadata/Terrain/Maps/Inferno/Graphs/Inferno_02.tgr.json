@@ -1,0 +1,1215 @@
+{
+  "data": {
+    "Default_": null,
+    "MasterFile": "Metadata/Terrain/Maps/Inferno/master.tsi"
+  },
+  "edge_count": 13,
+  "edge_types": {
+    "Metadata/Terrain/Jungle/JungleExterior/jungle.et": {
+      "id": "JungleEdge",
+      "color": "#FF00FF00"
+    }
+  },
+  "edges": [
+    {
+      "from_": 13,
+      "to": 0,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 3,
+      "to": 2,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 3,
+      "to": 4,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 5,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 7,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 1,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 2,
+      "to": 8,
+      "path": [],
+      "unknown": [
+        100,
+        1,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 12,
+      "to": 9,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 9,
+      "to": 10,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 10,
+      "to": 11,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 11,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 0,
+      "to": 12,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    },
+    {
+      "from_": 4,
+      "to": 13,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+        0,
+        0
+      ],
+      "edge_type": "Metadata/Terrain/Jungle/JungleExterior/jungle.et",
+      "color": "#FF00FF00"
+    }
+  ],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "8"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillTrees_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "filltree_01",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillTrees_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillTrees_02.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "filltree_02",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillTrees_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillTrees_03.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "filltree_03",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillTrees_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillTrees_04.tdt",
+      "prefix": [
+        "40"
+      ],
+      "suffix": null,
+      "tile_tag": "filltree_04",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillTrees_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillTrees_05.tdt",
+      "prefix": [
+        "40"
+      ],
+      "suffix": null,
+      "tile_tag": "filltree_05",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillTrees_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillTrees_06.tdt",
+      "prefix": [
+        "40"
+      ],
+      "suffix": null,
+      "tile_tag": "filltree_06",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillTrees_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillTrees_08.tdt",
+      "prefix": [
+        "40"
+      ],
+      "suffix": null,
+      "tile_tag": "filltree_08",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillTrees_08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_01.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillRuines01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_03.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillRuines03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_07.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins7",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JunglefillRuines07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_08.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins8",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillRuines08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_09.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins9",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillRuines09.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_12.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins12",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillRuines12.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_14.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins14",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillRuines14.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_15.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins15",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillRuines15.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_17.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins17",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillRuines17.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/JungleFillRuins_19.tdt",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": "Ruins19",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/JungleFillRuines19.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/Fills/fill_trees_01.arm",
+      "prefix": [
+        "120"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/Fills/fill_trees_02.arm",
+      "prefix": [
+        "120"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/Fills/fill_trees_03.arm",
+      "prefix": [
+        "120"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/Fills/fill_trees_04.arm",
+      "prefix": [
+        "120"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/Fills/fill_trees_05.arm",
+      "prefix": [
+        "120"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/Fills/fill_trees_06.arm",
+      "prefix": [
+        "120"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/Fills/fill_trees_07.arm",
+      "prefix": [
+        "120"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/Fills/fill_trees_08.arm",
+      "prefix": [
+        "120"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "JungleTrees",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/Fill_01.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/Fill_02.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/Fill_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/Fill_03.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/Fill_03.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": "chests.cht",
+    "Doodads": "doodads.ddt",
+    "EdgeCombination": null,
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Jungle/JungleExterior/jungle_trees.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": "overlays.toy",
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": "critters.clt",
+    "FileGroups": null
+  },
+  "node_count": 14,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [
+        0,
+        11
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 725,
+      "y": 1001
+    },
+    {
+      "numbers": [
+        5,
+        3
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 1001,
+      "y": 449
+    },
+    {
+      "numbers": [
+        6,
+        1
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 1139,
+      "y": 794
+    },
+    {
+      "numbers": [
+        1,
+        2
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 1415,
+      "y": 1277
+    },
+    {
+      "numbers": [
+        12,
+        2
+      ],
+      "room": "clearing",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 1139,
+      "y": 1553
+    },
+    {
+      "numbers": [
+        10,
+        3
+      ],
+      "room": "clearing",
+      "strings": [],
+      "transform": "R180",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 863,
+      "y": 748
+    },
+    {
+      "numbers": [],
+      "room": "clearing",
+      "strings": [],
+      "transform": "(any)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 1070,
+      "y": 1185
+    },
+    {
+      "numbers": [
+        4,
+        5
+      ],
+      "room": "entrance",
+      "strings": [
+        "default"
+      ],
+      "transform": "FI",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 1162,
+      "y": 127
+    },
+    {
+      "numbers": [
+        4,
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 1553,
+      "y": 587
+    },
+    {
+      "numbers": [
+        8,
+        7
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 104,
+      "y": 863
+    },
+    {
+      "numbers": [
+        9,
+        8
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 104,
+      "y": 518
+    },
+    {
+      "numbers": [
+        10,
+        9
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 656,
+      "y": 518
+    },
+    {
+      "numbers": [
+        7,
+        11
+      ],
+      "room": "boss",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 357,
+      "y": 1070
+    },
+    {
+      "numbers": [
+        0,
+        12
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "x": 863,
+      "y": 1346
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/entrance_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/forced_rare_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "rare",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/ClearingFeatures/BossClearing_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "boss",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/ClearingFeatures/Clearing_ForestEdge_Vaal_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "clearing",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/ClearingFeatures/Clearing_ForestEdge_Vaal_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "clearing",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/ClearingFeatures/Clearing_Vaal_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "clearing",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/ClearingFeatures/Clearing_Vaal_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "clearing",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/ClearingFeatures/Clearing_Vaal_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "clearing",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Inferno/Rooms/ClearingFeatures/Clearing_Vaal_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "clearing",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    75,
+    75
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/Fill_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/Fill_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/StMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/StMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/StMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/StSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/StSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/StSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/StSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/StSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/StSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/StWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/StWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CcMS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CcMS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CcMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CcMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CcSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CcSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CcSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CcSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CcWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CcWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CvMW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CvMW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CvSM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CvSM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CvSS_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CvSS_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CvSW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CvSW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CvWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CvWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CvMM_CvMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CvMM_CvMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CvMM_CvWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CvMM_CvWW_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/JungleExterior/Inferno/CvMW_CvWW_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Maps/Inferno/CvMW_CvWW_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}
