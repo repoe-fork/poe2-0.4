@@ -16,7 +16,7 @@
   },
   "edges": [
     {
-      "from_": 0,
+      "from": 0,
       "to": 1,
       "path": [],
       "unknown": [

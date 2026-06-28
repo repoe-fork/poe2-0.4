@@ -24,7 +24,7 @@
   },
   "edges": [
     {
-      "from_": 5,
+      "from": 5,
       "to": 0,
       "path": [],
       "unknown": [
@@ -48,7 +48,7 @@
       "color": "#ffff0000"
     },
     {
-      "from_": 0,
+      "from": 0,
       "to": 2,
       "path": [],
       "unknown": [
@@ -72,7 +72,7 @@
       "color": "#ff8f0000"
     },
     {
-      "from_": 2,
+      "from": 2,
       "to": 3,
       "path": [],
       "unknown": [
@@ -96,7 +96,7 @@
       "color": "#ff8f0000"
     },
     {
-      "from_": 4,
+      "from": 4,
       "to": 1,
       "path": [],
       "unknown": [
@@ -120,7 +120,7 @@
       "color": "#ff8f0000"
     },
     {
-      "from_": 3,
+      "from": 3,
       "to": 4,
       "path": [],
       "unknown": [
@@ -144,7 +144,7 @@
       "color": "#ff8f0000"
     },
     {
-      "from_": 6,
+      "from": 6,
       "to": 5,
       "path": [],
       "unknown": [
@@ -168,7 +168,7 @@
       "color": "#ffff0000"
     },
     {
-      "from_": 1,
+      "from": 1,
       "to": 6,
       "path": [],
       "unknown": [
@@ -192,7 +192,7 @@
       "color": "#ffff0000"
     },
     {
-      "from_": 7,
+      "from": 7,
       "to": 8,
       "path": [],
       "unknown": [
